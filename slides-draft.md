@@ -14,6 +14,9 @@ COIN: image + diplomatic + expanded text
 
 ---
 
+
+## Standard orthography
+
     ABCDEFGHIKLMNOPQRSTVXYZ -•←|
  
 ---
