@@ -13,7 +13,9 @@
 
 ![libertas](http://shot.holycross.edu/libertas-ric3.comm.171.png)
 
+    LIBERT P M TR P XIII IMP VIII COS V P P
 
+    libertas pontifix maximvs tribvnicia potestate XIII imperator VIII consvl V pater patriae
 ---
 
 
