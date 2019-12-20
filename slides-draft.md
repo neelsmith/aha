@@ -10,7 +10,9 @@
 
 ---
 
-COIN: image + diplomatic + expanded text
+
+![libertas](http://shot.holycross.edu/libertas-ric3.comm.171.png)
+
 
 ---
 
