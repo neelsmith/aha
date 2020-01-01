@@ -1,2 +1,3 @@
 # aha
-Slides for presentation at AHA, Jan., 2020
+
+Slides and notes for presentation at *AHA*, Jan., 2020.
