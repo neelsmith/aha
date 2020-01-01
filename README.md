@@ -10,5 +10,5 @@ Contents:
 
 ## See also
 
-- [Analyzing contents of OCRE(http://neelsmith.info/current-projects/tweeting/) (includes links to Jupyter notebooks)
+- [Analyzing contents of OCRE](http://neelsmith.info/current-projects/tweeting/) (includes links to Jupyter notebooks)
 - Related [blog posts](http://neelsmith.info/tag-coins/)
