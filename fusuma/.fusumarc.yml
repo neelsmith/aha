@@ -13,6 +13,7 @@ slide:
   code:
     languages:
       - javascript
+      - scala
     plugins: []
     theme: default
   chart: false
