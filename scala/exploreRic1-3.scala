@@ -54,17 +54,8 @@ val lt193 = Ocre(relevantIssues)
 // Check that we got RIC 3 issues as late as 193 CE:
 println("Total date range: " + lt193.dateRange.toString(" - "))
 
-// If you want to see the whole list of authorities
-// and dates...
-/*
-val gte193ByAuth = byAuths.filter(_._2.dateRange.pointAverage >= 193)
-val midPointDates = lt193.filterNot(_._1 == "anonymous").map{ case (a,o) => (a, o.dateRange.pointAverage)}.sortBy(_._2)
-*/
-
 
 // Now let's compare counts of coin records and text nodes:
-
-
 println(lt193.size + " coin records.")
 println(s"\t${lt193.hasObvLegend.size} with obv. legend ")
 println(s"\t${lt193.hasRevLegend.size} with rev. legend ")
@@ -88,13 +79,10 @@ import java.io.PrintWriter
 new PrintWriter("id-diffs.txt"){write(idDiff.mkString("\n")); close;}
 
 
+val missingMarcusAurelius = idDiff.filterNot(_.startsWith("1_2.cw"))
+val civilwars = idDiff.filter(_.startsWith("1_2.cw"))
+
+new PrintWriter("missing-marc-aur.txt"){write(missingMarcusAurelius.mkString("\n"));close;}
 
 
-
-
-
-/*
-val authDates = byAuths.map{ case(auth,ocr) => (auth, ocr.dateRange)}
-
-println(authDates.sortBy(_._2.pointAverage).filterNot(_._1 == "anonymous").map{ case (a,d) => a + ", " + d.toString("-") }.mkString("\n"))
-*/
+new PrintWriter("missing-cw.txt"){write(civilwars.mkString("\n"));close;}
