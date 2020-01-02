@@ -32,10 +32,40 @@ val ocre = OcreSource.fromUrl(ocreCexUrl)
 
 val byAuths = ocre.datable.byAuthority
 
-val lt193= byAuths.filter(_._2.dateRange.pointAverage < 193).filterNot(_._1 == "anonymous")
-val gte193 = byAuths.filter(_._2.dateRange.pointAverage >= 193)
+// Grouping by authority makes it easy to drop out RIC 4
+// issues that are contemporary with last of Commodus
+// by using the point average of his issues' dates, since
+// other authorities issuing in 193 will have an average
+// date point equal to or greater than 193.  This also
+// makes it easy to omit anonymous issues.
+val lt193ByAuth = byAuths.filter(_._2.dateRange.pointAverage < 193).filterNot(_._1 == "anonymous")
 
+val relevantIssues = lt193ByAuth.map(_._2.issues).flatten
+val lt193 = Ocre(relevantIssues)
+// Check that we got RIC 3 issues as late as 193 CE:
+println("Total date range: " + lt193.dateRange.toString(" - "))
+
+// If you want to see the whole list of authorities
+// and dates...
+/*
+val gte193ByAuth = byAuths.filter(_._2.dateRange.pointAverage >= 193)
 val midPointDates = lt193.filterNot(_._1 == "anonymous").map{ case (a,o) => (a, o.dateRange.pointAverage)}.sortBy(_._2)
+*/
+
+
+// Now let's compare counts of coin records and text nodes:
+val obvnodes = corpus.nodes.filter(_.urn.passageComponent.contains("obv"))
+val revnodes = corpus.nodes.filter(_.urn.passageComponent.contains("rev"))
+
+
+println(lt193.size + " coin records.")
+println(s"\t${lt193.hasObvLegend.size} with obv. legend ")
+println(s"\t${lt193.hasRevLegend.size} with rev. legend ")
+
+println(corpus.size + " texts total:")
+println(s"\t${obvnodes.size} obv. legends")
+println(s"\t${revnodes.size} rev. legends")
+
 
 
 
