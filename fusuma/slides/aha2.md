@@ -24,8 +24,13 @@ A familiar resource on the Web
 
 ---
 
-![libertas](http://shot.holycross.edu/aha/imgs/libertas-ric3.comm.171.png)
+## Tweeting
 
+
+---
+
+- frequency:  every 4 days!
+- frequency by authority:
 
 ---
 
@@ -74,5 +79,17 @@ A familiar resource on the Web
 23 alphabetic and 4 puncutation characters:
 
 > `ABCDEFGHIKLMNOPQRSTVXYZ -•←|`
+
+
+
+---
+
+<figure class="alignright">
+<img src="../static/imgs/augustus-vs-ocre.png" alt="Mints of Augustus"/>
+<figcaption>
+  <p>Mints: Augustus vs. OCRE</p>
+</figcaption>
+</figure>
+
 
 ---
