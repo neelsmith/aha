@@ -13,7 +13,6 @@ def collectFilesByExtension(dirName: String, extension: String = "csv"): Vector[
 }
 
 
-
 // 1. Add maven repository where we can find our libraries
 val myBT = coursierapi.MavenRepository.of("https://dl.bintray.com/neelsmith/maven")
 interp.repositories() ++= Seq(myBT)
@@ -34,10 +33,40 @@ import $ivy.`edu.holycross.shot::ocre-texts:0.3.1`
 
 import edu.holycross.shot.ocre._
 
-val lastN = 22
-val mappings = TextExpander.loadNMappings(lastN, baseDirectory = mappingsDir)
 
-val expanded = TextExpander.expandText(corpus, mappings)
+// Kludgy sequential retrieval because I'm hitting stack overflow
+// with recursion:
+val baseDir = "/Users/nsmith/Desktop/AHA-work/aha"
+
+val m1maps = collectFilesByExtension(baseDir + "/mappings/m1").map(f => baseDir + "/mappings/m1/" + f)
+val m1 = TextExpander.loadMappings(m1maps)
+val exp1 = TextExpander.expandText(corpus, m1)
+
+val m2maps = collectFilesByExtension(baseDir + "/mappings/m2").map(f => baseDir + "/mappings/m2/" + f)
+val m2 = TextExpander.loadMappings(m2maps)
+val exp2 = TextExpander.expandText(exp1, m2)
+
+
+
+val m3maps = collectFilesByExtension(baseDir + "/mappings/m3").map(f => baseDir + "/mappings/m3/" + f)
+val m3 = TextExpander.loadMappings(m3maps)
+val exp3 = TextExpander.expandText(exp2, m3)
+
+
+
+val m4maps = collectFilesByExtension(baseDir + "/mappings/m4").map(f => baseDir + "/mappings/m4/" + f)
+val m4 = TextExpander.loadMappings(m4maps)
+val exp4 = TextExpander.expandText(exp3, m4)
+
+
+val m5maps = collectFilesByExtension(baseDir + "/mappings/m5").map(f => baseDir + "/mappings/m5/" + f)
+val m5 = TextExpander.loadMappings(m5maps)
+val expanded = TextExpander.expandText(exp4, m5)
+
+
+//val lastN = 22
+//val mappings = TextExpander.loadNMappings(lastN, baseDirectory = mappingsDir)
+
 
 
 
