@@ -20,9 +20,18 @@ import edu.holycross.shot.cite._
 
 /// OHCO2 CORPUS FOR RIC 1-3:
 val ricTextCexUrl = "https://raw.githubusercontent.com/neelsmith/nomisma/master/cex/ric-1-3-cts.cex"
-val corpus = CorpusSource.fromUrl(ricTextCexUrl)
-println("Texts in RIC 1-3: " + corpus.size)
+val fullCorpus = CorpusSource.fromUrl(ricTextCexUrl)
+// drop anonymous issues for this notebook:
+val corpus = Corpus(fullCorpus.nodes.filterNot(_.urn.passageComponent.contains(".anys.")))
+
+
 val textsByAuth = corpus.nodes.groupBy(_.urn.collapsePassageTo(2).passageComponent)
+val obvnodes = corpus.nodes.filter(_.urn.passageComponent.contains("obv"))
+val revnodes = corpus.nodes.filter(_.urn.passageComponent.contains("rev"))
+
+
+println("Texts in RIC 1-3: " + fullCorpus.size)
+println("Texts without anon. authority: " + corpus.size)
 println("Texts on coins of " + textsByAuth.size + " authorities.")
 
 /// OCRE CORPUS
@@ -54,8 +63,6 @@ val midPointDates = lt193.filterNot(_._1 == "anonymous").map{ case (a,o) => (a, 
 
 
 // Now let's compare counts of coin records and text nodes:
-val obvnodes = corpus.nodes.filter(_.urn.passageComponent.contains("obv"))
-val revnodes = corpus.nodes.filter(_.urn.passageComponent.contains("rev"))
 
 
 println(lt193.size + " coin records.")
@@ -65,6 +72,21 @@ println(s"\t${lt193.hasRevLegend.size} with rev. legend ")
 println(corpus.size + " texts total:")
 println(s"\t${obvnodes.size} obv. legends")
 println(s"\t${revnodes.size} rev. legends")
+
+val textSet = corpus.nodes.map(_.urn.collapsePassageBy(1).passageComponent).distinct.toSet
+
+val coinSet = lt193.issues.map(_.id).toSet
+
+println("Unique coin ids: " + coinSet.size)
+println("Unique coins implied by texts: " + textSet.size)
+
+val idDiffSet = textSet diff coinSet
+val idDiff = idDiffSet.toVector
+println(idDiff.size)
+
+import java.io.PrintWriter
+new PrintWriter("id-diffs.txt"){write(idDiff.mkString("\n")); close;}
+
 
 
 
