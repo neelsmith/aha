@@ -41,16 +41,19 @@ val baseDir = "/Users/nsmith/Desktop/AHA-work/aha"
 val m1maps = collectFilesByExtension(baseDir + "/mappings/m1").map(f => baseDir + "/mappings/m1/" + f)
 val m1 = TextExpander.loadMappings(m1maps)
 val exp1 = TextExpander.expandText(corpus, m1)
+exp1.size
 
 val m2maps = collectFilesByExtension(baseDir + "/mappings/m2").map(f => baseDir + "/mappings/m2/" + f)
 val m2 = TextExpander.loadMappings(m2maps)
 val exp2 = TextExpander.expandText(exp1, m2)
+exp2.size
 
 
 
 val m3maps = collectFilesByExtension(baseDir + "/mappings/m3").map(f => baseDir + "/mappings/m3/" + f)
 val m3 = TextExpander.loadMappings(m3maps)
 val exp3 = TextExpander.expandText(exp2, m3)
+exp3.size
 
 
 
@@ -61,8 +64,18 @@ val exp4 = TextExpander.expandText(exp3, m4)
 
 val m5maps = collectFilesByExtension(baseDir + "/mappings/m5").map(f => baseDir + "/mappings/m5/" + f)
 val m5 = TextExpander.loadMappings(m5maps)
-val expanded = TextExpander.expandText(exp4, m5)
+val exp5 = TextExpander.expandText(exp4, m5)
 
+
+
+val m6maps = collectFilesByExtension(baseDir + "/mappings/m6").map(f => baseDir + "/mappings/m6/" + f)
+val m6 = TextExpander.loadMappings(m6maps)
+val exp6 = TextExpander.expandText(exp5, m6)
+
+
+val m7maps = collectFilesByExtension(baseDir + "/mappings/m7").map(f => baseDir + "/mappings/m7/" + f)
+val m7 = TextExpander.loadMappings(m7maps)
+val expanded = TextExpander.expandText(exp6, m7)
 
 //val lastN = 22
 //val mappings = TextExpander.loadNMappings(lastN, baseDirectory = mappingsDir)
