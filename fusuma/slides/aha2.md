@@ -1,20 +1,24 @@
 
 # Tweeting in Roman Imperial Coinage
 
-> Thomas Martin, Thomas Posillico, Neel Smith
+### Thomas Martin, Thomas Posillico, Neel Smith
 
->
-> College of the Holy Cross
+#### College of the Holy Cross
 
 
 ---
 
+A familiar resource on the Web
 
 ![OCRE](http://shot.holycross.edu/aha/imgs/ocre-logo.png)
 
 ---
 
+## But *also* a downloadable dataset
 
+- openly licensed
+- defined data structure
+- stable identifiers
 
 
 
