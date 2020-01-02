@@ -73,24 +73,25 @@ val idDiffSet = textSet diff coinSet
 val idDiff = idDiffSet.toVector
 println(idDiff.size)
 
-import java.io.PrintWriter
-new PrintWriter("id-diffs.txt"){write(idDiff.mkString("\n")); close;}
+// import java.io.PrintWriter
+//new PrintWriter("id-diffs.txt"){write(idDiff.mkString("\n")); close;}
+// new PrintWriter("missing-marc-aur.txt"){write(missingMarcusAurelius.mkString("\n"));close;}
+// new PrintWriter("missing-cw.txt"){write(civilwars.mkString("\n"));close;}
 
-
-val missingMarcusAurelius = idDiff.filterNot(_.startsWith("1_2.cw"))
+// Omitting these for this notebook b/c they're anonymous:
 val civilwars = idDiff.filter(_.startsWith("1_2.cw"))
 
-new PrintWriter("missing-marc-aur.txt"){write(missingMarcusAurelius.mkString("\n"));close;}
-new PrintWriter("missing-cw.txt"){write(civilwars.mkString("\n"));close;}
 
-
-// Verify that all missing M. Aurelius coins are undated.
+// Verify that all missing M. Aurelius coins are undated:
+val missingMarcusAurelius = idDiff.filterNot(_.startsWith("1_2.cw"))
 val dateRanges = for (id <- missingMarcusAurelius) yield {
     ocre.issue(id).get.dateRange
 }
 require(dateRanges.flatten.isEmpty)
 
 
+// Check to see if any of anononymous Civil War issues have
+// libertas :
 for (id <- civilwars) {
   val coin = ocre.issue(id).get
   val legends =  id + ", obv. " + coin.obvLegend + " rev. " + coin.revLegend
@@ -98,13 +99,15 @@ for (id <- civilwars) {
 }
 
 
-val cwLib = "1_2.cw.133"
-corpus.nodes.filter(_.urn.passageComponent.startsWith(cwLib))
 ///
-
+// Check to see if any of undated M. Aurelius  issues have
+// libertas :
 val legends = for (id <- missingMarcusAurelius) yield {
   val legends =  id + ", obv. " + coin.obvLegend + " rev. " + coin.revLegend
   legends
 }
-
 println(legends.mkString("\n"))
+
+
+val cwLib = "1_2.cw.133"
+corpus.nodes.filter(_.urn.passageComponent.startsWith(cwLib))
