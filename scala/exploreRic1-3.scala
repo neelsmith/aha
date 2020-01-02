@@ -2,21 +2,12 @@
 val myBT = coursierapi.MavenRepository.of("https://dl.bintray.com/neelsmith/maven")
 interp.repositories() ++= Seq(myBT)
 
-// 2. Make libraries available with `$ivy` imports:
-import $ivy.`edu.holycross.shot::nomisma:3.1.1`
-import $ivy.`edu.holycross.shot::histoutils:2.2.0`
-import $ivy.`org.plotly-scala::plotly-almond:0.7.1`
-import $ivy.`edu.holycross.shot::midvalidator:9.2.0`
-import $ivy.`edu.holycross.shot::latphone:2.7.2`
-import $ivy.`edu.holycross.shot::latincorpus:2.2.1`
-
+// 2. Build text corpus first.
 import $ivy.`edu.holycross.shot::ohco2:10.18.1`
 import $ivy.`edu.holycross.shot.cite::xcite:4.2.0`
 
 import edu.holycross.shot.ohco2._
 import edu.holycross.shot.cite._
-
-
 
 /// OHCO2 CORPUS FOR RIC 1-3:
 val ricTextCexUrl = "https://raw.githubusercontent.com/neelsmith/nomisma/master/cex/ric-1-3-cts.cex"
@@ -35,6 +26,14 @@ println("Texts without anon. authority: " + corpus.size)
 println("Texts on coins of " + textsByAuth.size + " authorities.")
 
 /// OCRE CORPUS
+import $ivy.`edu.holycross.shot::nomisma:3.1.1`
+/*
+import $ivy.`edu.holycross.shot::histoutils:2.2.0`
+import $ivy.`org.plotly-scala::plotly-almond:0.7.1`
+import $ivy.`edu.holycross.shot::midvalidator:9.2.0`
+import $ivy.`edu.holycross.shot::latphone:2.7.2`
+import $ivy.`edu.holycross.shot::latincorpus:2.2.1`
+*/
 import edu.holycross.shot.nomisma._
 val ocreCexUrl = "https://raw.githubusercontent.com/neelsmith/nomisma/master/cex/ocre-cite-ids.cex"
 val ocre = OcreSource.fromUrl(ocreCexUrl)
@@ -65,7 +64,6 @@ println(s"\t${obvnodes.size} obv. legends")
 println(s"\t${revnodes.size} rev. legends")
 
 val textSet = corpus.nodes.map(_.urn.collapsePassageBy(1).passageComponent).distinct.toSet
-
 val coinSet = lt193.issues.map(_.id).toSet
 
 println("Unique coin ids: " + coinSet.size)
@@ -83,6 +81,30 @@ val missingMarcusAurelius = idDiff.filterNot(_.startsWith("1_2.cw"))
 val civilwars = idDiff.filter(_.startsWith("1_2.cw"))
 
 new PrintWriter("missing-marc-aur.txt"){write(missingMarcusAurelius.mkString("\n"));close;}
-
-
 new PrintWriter("missing-cw.txt"){write(civilwars.mkString("\n"));close;}
+
+
+// Verify that all missing M. Aurelius coins are undated.
+val dateRanges = for (id <- missingMarcusAurelius) yield {
+    ocre.issue(id).get.dateRange
+}
+require(dateRanges.flatten.isEmpty)
+
+
+for (id <- civilwars) {
+  val coin = ocre.issue(id).get
+  val legends =  id + ", obv. " + coin.obvLegend + " rev. " + coin.revLegend
+  println(legends)
+}
+
+
+val cwLib = "1_2.cw.133"
+corpus.nodes.filter(_.urn.passageComponent.startsWith(cwLib))
+///
+
+val legends = for (id <- missingMarcusAurelius) yield {
+  val legends =  id + ", obv. " + coin.obvLegend + " rev. " + coin.revLegend
+  legends
+}
+
+println(legends.mkString("\n"))
