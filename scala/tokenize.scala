@@ -2,6 +2,17 @@
 val mappingsDir = "../ocre-texts/mappings"
 val ricTextCexUrl = "https://raw.githubusercontent.com/neelsmith/nomisma/master/cex/ric-1-3-cts.cex"
 
+import java.io.File
+def collectFilesByExtension(dirName: String, extension: String = "csv"): Vector[String] = {
+  val dir = new File(dirName)
+  if (dir.exists && dir.isDirectory) {
+     dir.listFiles.filter(_.isFile).filter(_.getName.endsWith(extension)).map(_.getName).toVector
+  } else {
+    Vector.empty[String]
+  }
+}
+
+
 
 // 1. Add maven repository where we can find our libraries
 val myBT = coursierapi.MavenRepository.of("https://dl.bintray.com/neelsmith/maven")

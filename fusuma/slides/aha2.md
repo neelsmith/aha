@@ -8,7 +8,7 @@
 
 ---
 
-A familiar resource on the Web
+*OCRE*: a familiar resource on the Web
 
 ![OCRE](http://shot.holycross.edu/aha/imgs/ocre-logo.png)
 
@@ -62,21 +62,13 @@ A familiar resource on the Web
 </div>
 
 
----
-
-
-![libertas](http://shot.holycross.edu/aha/imgs/libertas-ric3.comm.171.png)
-
-    LIBERT P M TR P XIII IMP VIII COS V P P
-
-    libertas pontifex maximvs tribvnicia potestate XIII imperator VIII consvl V pater patriae
 
 ---
 
 
 ## Standard orthography
 
-23 alphabetic and 4 puncutation characters:
+23 alphabetic and 4 punctuation characters:
 
 > `ABCDEFGHIKLMNOPQRSTVXYZ -•←|`
 
@@ -107,3 +99,11 @@ A familiar resource on the Web
 
 
 ---
+
+# Thank you!
+
+<p>
+Slides and further links:
+</p>
+
+<http://neelsmith.info/current-projects/tweeting/aha/>
