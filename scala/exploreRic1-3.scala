@@ -12,6 +12,7 @@ import $ivy.`edu.holycross.shot::latincorpus:2.2.1`
 
 import $ivy.`edu.holycross.shot::ohco2:10.18.1`
 import $ivy.`edu.holycross.shot.cite::xcite:4.2.0`
+
 import edu.holycross.shot.ohco2._
 import edu.holycross.shot.cite._
 
@@ -22,7 +23,7 @@ val ricTextCexUrl = "https://raw.githubusercontent.com/neelsmith/nomisma/master/
 val corpus = CorpusSource.fromUrl(ricTextCexUrl)
 println("Texts in RIC 1-3: " + corpus.size)
 val textsByAuth = corpus.nodes.groupBy(_.urn.collapsePassageTo(2).passageComponent)
-textsByAuth.size
+println("Texts on coins of " + textsByAuth.size + " authorities.")
 
 /// OCRE CORPUS
 import edu.holycross.shot.nomisma._
@@ -31,11 +32,17 @@ val ocre = OcreSource.fromUrl(ocreCexUrl)
 
 val byAuths = ocre.datable.byAuthority
 
-val lt200 = byAuths.filter(_._2.dateRange.pointAverage < 199)
-val gt200 = byAuths.filter(_._2.dateRange.pointAverage >= 199)
+val lt193= byAuths.filter(_._2.dateRange.pointAverage < 193).filterNot(_._1 == "anonymous")
+val gte193 = byAuths.filter(_._2.dateRange.pointAverage >= 193)
 
-gt200.size
+val midPointDates = lt193.filterNot(_._1 == "anonymous").map{ case (a,o) => (a, o.dateRange.pointAverage)}.sortBy(_._2)
 
+
+
+
+
+/*
 val authDates = byAuths.map{ case(auth,ocr) => (auth, ocr.dateRange)}
 
 println(authDates.sortBy(_._2.pointAverage).filterNot(_._1 == "anonymous").map{ case (a,d) => a + ", " + d.toString("-") }.mkString("\n"))
+*/
