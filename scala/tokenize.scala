@@ -60,22 +60,30 @@ exp3.size
 val m4maps = collectFilesByExtension(baseDir + "/mappings/m4").map(f => baseDir + "/mappings/m4/" + f)
 val m4 = TextExpander.loadMappings(m4maps)
 val exp4 = TextExpander.expandText(exp3, m4)
+exp4.size
 
 
 val m5maps = collectFilesByExtension(baseDir + "/mappings/m5").map(f => baseDir + "/mappings/m5/" + f)
 val m5 = TextExpander.loadMappings(m5maps)
 val exp5 = TextExpander.expandText(exp4, m5)
+exp5.size
 
 
 
 val m6maps = collectFilesByExtension(baseDir + "/mappings/m6").map(f => baseDir + "/mappings/m6/" + f)
 val m6 = TextExpander.loadMappings(m6maps)
 val exp6 = TextExpander.expandText(exp5, m6)
+exp6.size
 
 
 val m7maps = collectFilesByExtension(baseDir + "/mappings/m7").map(f => baseDir + "/mappings/m7/" + f)
 val m7 = TextExpander.loadMappings(m7maps)
 val expanded = TextExpander.expandText(exp6, m7)
+expanded.size
+
+
+import java.io.PrintWriter
+new PrintWriter("ric-1-3-expanded.cex"){write(expanded.cex()); close;}
 
 //val lastN = 22
 //val mappings = TextExpander.loadNMappings(lastN, baseDirectory = mappingsDir)
