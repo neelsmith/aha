@@ -93,3 +93,17 @@ A familiar resource on the Web
 
 
 ---
+
+## An example: `libertas`
+
+---
+
+<figure class="alignright">
+<img src="../static/imgs/libertas-by-legend-and-date.png" alt="Mints of Augustus"/>
+<figcaption>
+  <p>Mints: Augustus vs. OCRE</p>
+</figcaption>
+</figure>
+
+
+---
