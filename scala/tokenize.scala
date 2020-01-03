@@ -42,3 +42,11 @@ badContent.size
 
 import java.io.PrintWriter
 new PrintWriter("ric1-3-unexpanded.txt"){write(badContent.mkString("\n")); close;}
+
+// Now create a tokenizable corpus:
+val tcorpus = TokenizableCorpus(Corpus(validTexts), NormalizedLegendOrthography)
+new PrintWriter("ric1-3-words.txt"){write(tcorpus.wordList.mkString("\n"));close;}
+
+
+println("Wrote word list:")
+println(tcorpus.wordList.size + " unique lexical tokens from " + tcorpus.size + " total tokens.")
