@@ -39,47 +39,31 @@ import edu.holycross.shot.nomisma._
 import plotly._, plotly.element._, plotly.layout._, plotly.Almond._
 repl.pprinter() = repl.pprinter().copy(defaultHeight = 3)
 
-
-
-
-/*
-// Collect occurences for a given token's lexemes:
-val token = "libertas"
-val lexemeUrns = ocreTokens.tokenLexemeIndex(token)
-// here, we assume there's only one matching lexeme:
-val lexemeUrn = lexemeUrns(0)
-
-// This breaks on a corpus like RIC 1-3 where some
-// tokens are not categorized:
-//val occurrences =  ocreTokens.lexemeConcordance(lexemeUrn)
-//
-// This work around does the trick:
-val tokenLemmaMap = ocreTokens.tokens.map(t => (t.urn, t.analyses.map(_.lemmaId).distinct))
-// Verify that all tokens are lexically unambiguous, before
-// reducing data to simple pairing of each parsed token
-// with a single lexeme ID:
-require(tokenLemmaMap.filter(_._2.size > 1).isEmpty, "Some tokens derive from more than one possible lexeme.")
-val tokenLemmaPair = tokenLemmaMap.filter(_._2.nonEmpty).map{ case (t,v) => (t, v(0))}
-*/
-
-def occurrencesFromForm(tokenText: String, latinCorpus: LatinCorpus): Vector[String] = {
+// Given the text of a lexical token, find all occurrences
+// in the corpus of any form of its lexeme.
+def occurrencesFromForm(tokenText: String, latinCorpus: LatinCorpus) : Vector[CtsUrn] = {
   val lexemeUrns = latinCorpus.tokenLexemeIndex(tokenText)
   // we've already verified that we have no lexical ambiguity,
   // so can just take the first lexeme ID
   val lexemeUrn = lexemeUrns(0)
+  println("Lexeme for " + tokenText + " is " + lexemeUrn)
   val tokenLemmaMap = latinCorpus.tokens.map(t => (t.urn, t.analyses.map(_.lemmaId).distinct))
+  require(tokenLemmaMap.filter(_._2.size > 1).isEmpty, "Some tokens derive from more than one possible lexeme.")
   val tokenLemmaPair = tokenLemmaMap.filter(_._2.nonEmpty).map{ case (t,v) => (t, v(0))}
-  tokenLemmaPair.filter(_._2 == lexemeUrn).map(_._2)
+
+
+  tokenLemmaPair.filter(_._2 == lexemeUrn).map(_._1)
 }
 
-
+// "ls.n26481"
 val libertasOccurs = occurrencesFromForm("libertas", ocreTokens)
 libertasOccurs.size
 
 
 // group text passages by issuing authority, by using the
 // first two pieces of URN's passage component:
-val byAuth = occurrences.groupBy( _.collapsePassageTo(2))
+val byAuth = libertasOccurs.groupBy( _.collapsePassageTo(2))
+
 import edu.holycross.shot.histoutils._
 val libFreqs = for (auth <- byAuth.keySet) yield {
   val parts = auth.passageComponent.split("\\.")
