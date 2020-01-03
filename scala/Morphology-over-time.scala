@@ -123,7 +123,7 @@ val colorMap : Map[String, Color.RGB] = Map(
 "libertas popvli romani" -> Color.RGB(0,250,0),
 "libertas" -> Color.RGB(0,0, 250),
 "adsertor/salvs/pax" -> Color.RGB(250,250,250),
-"libertas avgvsti" -> Color.RGB()
+"libertas avgvsti" -> Color.RGB(0,180,180)
 )
 
 val expandedCorpus = Corpus(psgUrns.zip(txts).map{ case (u,t) => CitableNode(u,t) })
@@ -170,21 +170,6 @@ def toOcre(srcIssues: Vector[NomismaIssue], outputIssues: Vector[OcreIssue] = Ve
 }
 
 
-def traceForGroup(issues: ) = {
-
-  val smallOcre = Ocre(issues)
-  /*
-  Scatter(
-    datedTextHisto.frequencies.map(_.item),
-    datedTextHisto.frequencies.map(_.count),
-    text = datedTextHisto.frequencies.map(_.toString),
-    mode = ScatterMode(ScatterMode.Markers),
-    marker = Marker(
-      size = 8,
-      color = Color.RGB(250,100,100)
-    )
-  )*/
-}
 
 
 val textKeys = groupedByText.keySet.toVector
@@ -205,8 +190,10 @@ val datedTextGroups = miniOcres.map { case(legend, miniOcre) => {
 val mapped = datedTextGroups.toMap //("libertas avgvsti"))
 
 mapped("libertas avgvsti").toVector.map(_._1)
+
 val traces = for (legend <- mapped.keySet) yield {
   //println(legend + ", " + colorMap(legend))
+  val colorClass = libertasClasses(legend)
   Scatter(
     //datedTextHisto.frequencies.map(_.item),
     mapped(legend).toVector.map(_._1),
@@ -218,7 +205,7 @@ val traces = for (legend <- mapped.keySet) yield {
     mode = ScatterMode(ScatterMode.Markers),
     marker = Marker(
       size = 8,
-      color = Color.RGB(250,100,100) // colorMap(legend)
+      color =  colorMap(colorClass)
     )
   )
 }
@@ -226,7 +213,7 @@ val tracesData = traces.toSeq
 
 val legendsLayout = Layout(
   title = "Legends with 'libertas'",
-  showlegend = true,
+  showlegend = false,
   yaxis = Axis(title = "Number of issues"),
   xaxis = Axis(title = "Year CE"),
   height = 600,
