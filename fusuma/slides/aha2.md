@@ -21,12 +21,20 @@
 - stable identifiers
 
 <!-- note
+
+
+Total number of issues in OCRE: 50644
 Obv legends: 50148
 Rev legends: 48418
-All: 98566
-Total characters: 2144309
-Average number of characters per legend: 21
+All legends: 98566
+
 -->
+
+---
+
+## So..
+
+apply apropriate tool
 
 ---
 
@@ -41,7 +49,9 @@ Average number of characters per legend: 21
 
 
 <!-- note
-Total number of issues in OCRE: 50644
+Total characters: 2144309
+Average number of characters per legend: 21
+
 Number of datable issues: 50613
 Chronological range of issues in OCRE: 32 BCE - 491 CE
 
@@ -170,5 +180,14 @@ Goats: 3403 (3.452509% of 98566)
 
 ---
 
+# Conclusion 
+
+not just active search  for specific content, but exploration of multidimensional data using variety of instruments
 
 ---
+
+
+
+# Thank you!
+
+<http://neelsmith.info/current-projects/tweeting/aha/>
