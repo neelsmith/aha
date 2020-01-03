@@ -29,20 +29,7 @@ import edu.holycross.shot.latincorpus._
 val ocreTokens = LatinCorpus.fromFstLines(corpus, Latin24Alphabet, fstLines, strict = false)
 
 
-
-
-
-
-
-
-
-
-// Import everything we'll use
-
-
-
-
-
+// Import everything we'll use for plotting
 import $ivy.`org.plotly-scala::plotly-almond:0.7.1`
 import $ivy.`edu.holycross.shot::nomisma:3.1.1`
 import edu.holycross.shot.nomisma._
