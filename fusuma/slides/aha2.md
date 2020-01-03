@@ -45,12 +45,13 @@ All legends: 98566
 
 ## Tweeting?
 
-- **frequent**:
-    - 97 issues per year (every 4 days for 500 years!)
-    - rate varies by authority
-- **terse**: average text ~ 21 characters
-- **widely circulated** texts
-- **official**, sanctioned contents
+Official, sanctioned  texts:
+
+- frequent
+- widely circulated
+- terse
+
+
 
 
 <!-- note
@@ -70,7 +71,7 @@ Chronological range of issues in OCRE: 32 BCE - 491 CE
 <div class="wrap">
 <img class="alignright size-70" src="../static/imgs/annual-frequency.png" alt="Issues per year"/>
 
-### Frequency
+### Frequent
 
 - 97 issues per year
 - ~ every 4 days for 500 years!
@@ -83,7 +84,7 @@ Chronological range of issues in OCRE: 32 BCE - 491 CE
 <div class="wrap">
 <img class="alignright size-70" src="../static/imgs/annual-frequency-by-authority.png" alt="Issues per year"/>
 
-### Varies by authority
+### But varies by authority
 
 
 </div>
@@ -102,6 +103,14 @@ Chronological range of issues in OCRE: 32 BCE - 491 CE
 </div>
 
 
+---
+
+## Tweet-like texts
+
+- average text ~ 21 characters
+- limited vocabulary
+- highly abbreviated (LOL)
+
 
 ---
 
@@ -110,33 +119,27 @@ Chronological range of issues in OCRE: 32 BCE - 491 CE
 ## Building a text corpus
 
 
-
 ---
 
 
-<div class="grid">
-  <div class="row">
-<img src="../static/imgs/libertas-ric3.comm.171-scaled.png" alt="RIC 3, Commodus 171"/>
-  </div>
-  <div class="row">
-  <center>
-  <strong>Diplomatic transcription from RIC:</strong></center>
-  <code>
-  LIBERT P M TR P XIII IMP VIII COS V P P
-  </code>
-  </div>
-<div class="row">
- <strong>Expanded and normalized version:</strong>
+<div class="wrap">
+<img class="alignright size-70" src="../static/imgs/libertas-ric3.comm.171.png" alt="RIC 3, Commodus 171"/>
 
-<blockquote>
-  libertas pontifex maximvs tribvnicia potestate XIII imperator VIII consvl V pater patriae
-  </blockquote>
-  </div>
+
+#### **Diplomatic transcription** (from RIC)
+
+`LIBERT P M TR P XIII IMP VIII COS V P P`
+
+#### **Expanded and normalized version**
+
+
+libertas pontifex maximvs tribvnicia potestate XIII imperator VIII consvl V pater patriae
+
 </div>
 
-
-
 ---
+
+
 
 
 ## Standard orthography
@@ -145,16 +148,6 @@ Chronological range of issues in OCRE: 32 BCE - 491 CE
 
 > `ABCDEFGHIKLMNOPQRSTVXYZ -•←|`
 
-
-
----
-
-<figure class="alignright">
-<img src="../static/imgs/augustus-vs-ocre.png" alt="Mints of Augustus"/>
-<figcaption>
-  <p>Mints: Augustus vs. OCRE</p>
-</figcaption>
-</figure>
 
 
 ---
