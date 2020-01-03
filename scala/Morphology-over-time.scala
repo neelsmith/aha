@@ -83,9 +83,10 @@ plot(libIssuesPlot)
 
 
 
-// Assemble normalized/expanded text for each passage:
-val psgUrns = occurrences.map(_.collapsePassageBy(1).addVersion("expanded"))
-println("Examining " + occurrences.size + " legends.")
+// Assemble normalized/expanded text for each passage.
+val psgUrns = libertasOccurs.map(_.collapsePassageBy(1).addVersion("expanded"))
+// THIS IS HORRIFICALLY SLOW.  Be patient: it does work.
+println("Examining " + libertasOccurs.size + " legends.")
 val txts = for ((psg,idx) <- psgUrns.zipWithIndex) yield {
   val matchPassage = corpus.nodes.filter(_.urn ~~ psg)
   print(idx + 1 + ". ")
@@ -105,7 +106,7 @@ val txts = for ((psg,idx) <- psgUrns.zipWithIndex) yield {
   }
 }
 
-
+txts
 println(txts.distinct.sorted.mkString("\n"))
 
 val colorMap : Map[String, Color.RGB] = Map(
