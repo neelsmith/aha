@@ -50,8 +50,10 @@ val tokenLemmaPair = tokenLemmaMap.filter(_._2.nonEmpty).map{ case (t,v) => (t, 
 val libertas = tokenLemmaPair.filter(_._2 == "ls.n26481")
 libertas.size
 
+
 // Find coin IDs where a specified lexeme occurs.
 def findLexemeOccurrences(lexemeId: String) : Vector[String] = {
+  // THIS IS BROKEN!
     val occurrences =  ocrelat.lexemeConcordance(lexemeId)
     // Convert text references to coin IDs:
     occurrences.map(_.collapsePassageBy(1).passageComponent)
