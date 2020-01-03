@@ -68,68 +68,44 @@ Chronological range of issues in OCRE: 32 BCE - 491 CE
 ---
 
 <div class="wrap">
-<img class="alignright size-80" src="../static/imgs/annual-frequency.png" alt="Issues per year"/>
+<img class="alignright size-70" src="../static/imgs/annual-frequency.png" alt="Issues per year"/>
 
+### Frequency
 
-<p>Jobs unveiled the iPhone to the public on January 9, 2007, at the Macworld 2007 convention at the Moscone Center in San Francisco.  Apple sold 6.1 million first generation iPhone units over five quarters.</p>
+- 97 issues per year
+- ~ every 4 days for 500 years!
 
-<p><strong>Image size recommended</strong>: 800x600px / 600x450px.</p>
 </div>
-
 
 ---
 
 
 <div class="wrap">
-  <div class="grid vertical-align">
-    <div class="column">
-    Terse
-    </div>
-    <div class="column">
-    <figure class="alignright">
-    <img src="../static/imgs/annual-frequency.png" alt="Issues per year"/>
-    <figcaption>
-      <p>Number of issues per year</p>
-    </figcaption>
-    </figure>
-    </div>
-  </div>
+<img class="alignright size-70" src="../static/imgs/annual-frequency-by-authority.png" alt="Issues per year"/>
+
+### Varies by authority
+
+
 </div>
 
----
-
-
-<figure class="alignright">
-<img src="../static/imgs/annual-frequency.png" alt="Issues per year"/>
-<figcaption>
-  <p>Number of issues per year</p>
-</figcaption>
-</figure>
-
 
 ---
 
 
 
-<figure class="alignright">
-<img src="../static/imgs/annual-frequency-by-authority.png" alt="Issues per year"/>
-<figcaption>
-  <p>Rate of issues per authority</p>
-</figcaption>
-</figure>
+<div class="wrap">
+<img class="alignright size-70" src="../static/imgs/augustus-vs-ocre.png" alt="Numbers of issues per mint"/>
+
+### Widespread
+
+
+</div>
+
+
 
 ---
 
 
-
-<figure class="alignright">
-<img src="../static/imgs/augustus-vs-ocre.png" alt="Issues per year"/>
-<figcaption>
-  <p>Numbers of issues per mint</p>
-</figcaption>
-</figure>
-
----
 
 ## Building a text corpus
 
