@@ -42,7 +42,7 @@ repl.pprinter() = repl.pprinter().copy(defaultHeight = 3)
 
 
 
-
+/*
 // Collect occurences for a given token's lexemes:
 val token = "libertas"
 val lexemeUrns = ocreTokens.tokenLexemeIndex(token)
@@ -55,8 +55,26 @@ val lexemeUrn = lexemeUrns(0)
 //
 // This work around does the trick:
 val tokenLemmaMap = ocreTokens.tokens.map(t => (t.urn, t.analyses.map(_.lemmaId).distinct))
-// Verify that all tokens are lexically unambiguous:
+// Verify that all tokens are lexically unambiguous, before
+// reducing data to simple pairing of each parsed token
+// with a single lexeme ID:
 require(tokenLemmaMap.filter(_._2.size > 1).isEmpty, "Some tokens derive from more than one possible lexeme.")
+val tokenLemmaPair = tokenLemmaMap.filter(_._2.nonEmpty).map{ case (t,v) => (t, v(0))}
+*/
+
+def occurrencesFromForm(tokenText: String, latinCorpus: LatinCorpus): Vector[String] = {
+  val lexemeUrns = latinCorpus.tokenLexemeIndex(tokenText)
+  // we've already verified that we have no lexical ambiguity,
+  // so can just take the first lexeme ID
+  val lexemeUrn = lexemeUrns(0)
+  val tokenLemmaMap = latinCorpus.tokens.map(t => (t.urn, t.analyses.map(_.lemmaId).distinct))
+  val tokenLemmaPair = tokenLemmaMap.filter(_._2.nonEmpty).map{ case (t,v) => (t, v(0))}
+  tokenLemmaPair.filter(_._2 == lexemeUrn).map(_._2)
+}
+
+
+val libertasOccurs = occurrencesFromForm("libertas", ocreTokens)
+libertasOccurs.size
 
 
 // group text passages by issuing authority, by using the
