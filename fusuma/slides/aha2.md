@@ -174,6 +174,14 @@ Slides and further links:
 
 <http://neelsmith.info/current-projects/tweeting/aha/>
 
+<figure>
+<img src="../static/imgs/aha-qr.png" alt="QR code"/>
+<figcaption>
+  <p></p>
+</figcaption>
+</figure>
+
+
 ---
 
 ---
