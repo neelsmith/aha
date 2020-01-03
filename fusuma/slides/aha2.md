@@ -24,15 +24,18 @@
 
 ---
 
-## Tweeting
+## Tweeting?
 
+- frequency of issues:  every 4 days!
+    - frequency
+    - frequency by authority
+- text: lengths
+- widely circulated texts
+- official, sanctioned contents
 
 ---
 
-- frequency:  every 4 days!
-- frequency by authority:
 
----
 
 ## Building a text corpus
 
