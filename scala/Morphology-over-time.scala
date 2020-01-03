@@ -1,3 +1,6 @@
+// Multi-dimensional plot:  distinct legends containing
+// any form of a lexeme, clustered by year.
+//
 // 1. Add maven repository where we can find our libraries
 val myBT = coursierapi.MavenRepository.of("https://dl.bintray.com/neelsmith/maven")
 interp.repositories() ++= Seq(myBT)
@@ -45,7 +48,15 @@ val token = "libertas"
 val lexemeUrns = ocreTokens.tokenLexemeIndex(token)
 // here, we assume there's only one matching lexeme:
 val lexemeUrn = lexemeUrns(0)
-val occurrences =  ocreTokens.lexemeConcordance(lexemeUrn)
+
+// This breaks on a corpus like RIC 1-3 where some
+// tokens are not categorized:
+//val occurrences =  ocreTokens.lexemeConcordance(lexemeUrn)
+//
+// This work around does the trick:
+val tokenLemmaMap = ocreTokens.tokens.map(t => (t.urn, t.analyses.map(_.lemmaId).distinct))
+// Verify that all tokens are lexically unambiguous:
+require(tokenLemmaMap.filter(_._2.size > 1).isEmpty, "Some tokens derive from more than one possible lexeme.")
 
 
 // group text passages by issuing authority, by using the
