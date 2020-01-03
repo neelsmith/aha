@@ -187,7 +187,17 @@ libertas pontifex maximvs tribvnicia potestate XIII imperator VIII consvl V pate
 
 <img src="../static/imgs/6-Galba-Libertas-Restituta-at-Rome-Dec-68-1995.11.679 RIC 479.jpg" alt="" class="size-60"/>
 
+---
 
+<div class="wrap">
+<img class="alignleft" src="../static/imgs/color-key.png" alt="Numbers of issues per mint"/>
+</div>
+
+---
+
+<div class="wrap">
+<img class="alignright" src="../static/imgs/libertas-classes.png" alt="Numbers of issues per mint"/>
+</div>
 
 ---
 
@@ -197,11 +207,7 @@ libertas pontifex maximvs tribvnicia potestate XIII imperator VIII consvl V pate
 <img class="alignright size-70" src="../static/imgs/libertas-classes.png" alt="Numbers of issues per mint"/>
 </div>
 
----
 
-<div class="wrap">
-<img class="alignleft" src="../static/imgs/color-key.png" alt="Numbers of issues per mint"/>
-</div>
 
 
 
