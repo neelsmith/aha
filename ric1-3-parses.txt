@@ -1,0 +1,932 @@
+> a
+<u>ocremorph.n4</u><u>ls.n4</u>a<indecl><indeclprep><div><indeclprep><indecl><u>indeclinfl.1</u>
+> actio
+<u>ocremorph.geoadj1</u><u>ls.n617</u>acti<adj><us_a_um><div><us_a_um><adj>o<masc><dat><sg><pos><u>ocremorph.us_a_um3</u>
+<u>ocremorph.geoadj1</u><u>ls.n617</u>acti<adj><us_a_um><div><us_a_um><adj>o<masc><abl><sg><pos><u>ocremorph.us_a_um5</u>
+<u>ocremorph.geoadj1</u><u>ls.n617</u>acti<adj><us_a_um><div><us_a_um><adj>o<neut><dat><sg><pos><u>ocremorph.us_a_um77</u>
+<u>ocremorph.geoadj1</u><u>ls.n617</u>acti<adj><us_a_um><div><us_a_um><adj>o<neut><abl><sg><pos><u>ocremorph.us_a_um79</u>
+> activm
+<u>ocremorph.geoadj1</u><u>ls.n617</u>acti<adj><us_a_um><div><us_a_um><adj>vm<masc><acc><sg><pos><u>ocremorph.us_a_um4</u>
+<u>ocremorph.geoadj1</u><u>ls.n617</u>acti<adj><us_a_um><div><us_a_um><adj>vm<neut><acc><sg><pos><u>ocremorph.us_a_um78</u>
+> adlocvtio
+> adsertor
+<u>ocremorph.n4035</u><u>ls.n4035</u>adsertor<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>ocremorph.0_is1</u>
+> adsertori
+<u>ocremorph.n4035</u><u>ls.n4035</u>adsertor<noun><masc><0_is><div><0_is><noun>i<masc><dat><sg><u>ocremorph.0_is3</u>
+> adventvs
+<u>ocremorph.n1072</u><u>ls.n1072</u>advent<noun><masc><us_us><div><us_us><noun>vs<masc><nom><sg><u>ocremorph.us_us1</u>
+<u>ocremorph.n1072</u><u>ls.n1072</u>advent<noun><masc><us_us><div><us_us><noun>vs<masc><acc><pl><u>ocremorph.us_us9</u>
+<u>ocremorph.n1072</u><u>ls.n1072</u>advent<noun><masc><us_us><div><us_us><noun>vs<masc><gen><sg><u>ocremorph.us_us2</u>
+> aegvpto
+> aegypto
+> aelivs
+<u>ocremorph.n1212</u><u>ls.n1212</u>aeli<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> aeqvitas
+<u>ocremorph.n1315</u><u>ls.n1315</u>aeqvita<noun><fem><s_tis><div><s_tis><noun>s<fem><nom><sg><u>ocremorph.stis13</u>
+> aere
+<u>ocremorph.n1359</u><u>ls.n1359</u>ae<noun><neut><s_ris><div><s_ris><noun>re<neut><abl><sg><u>ocremorph.s_ris29</u>
+> aeternae
+<u>ocremorph.n1413</u><u>ls.n1413</u>aetern<adj><us_a_um><div><us_a_um><adj>ae<fem><nom><pl><pos><u>ocremorph.us_a_um42</u>
+<u>ocremorph.n1413</u><u>ls.n1413</u>aetern<adj><us_a_um><div><us_a_um><adj>ae<fem><gen><sg><pos><u>ocremorph.us_a_um38</u>
+<u>ocremorph.n1413</u><u>ls.n1413</u>aetern<adj><us_a_um><div><us_a_um><adj>ae<fem><dat><sg><pos><u>ocremorph.us_a_um39</u>
+> aeternitas
+<u>ocremorph.n1410</u><u>ls.n1410</u>aeternita<noun><fem><s_tis><div><s_tis><noun>s<fem><nom><sg><u>ocremorph.stis13</u>
+> aeternitati
+<u>ocremorph.n1410</u><u>ls.n1410</u>aeternita<noun><fem><s_tis><div><s_tis><noun>ti<fem><dat><sg><u>ocremorph.stis15</u>
+> africae
+> agrippa
+<u>ocremorph.n1639</u><u>ls.n1639</u>agripp<noun><masc><a_ae><div><a_ae><noun>a<masc><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n1639</u><u>ls.n1639</u>agripp<noun><masc><a_ae><div><a_ae><noun>a<masc><abl><sg><u>ocremorph.a_ae5</u>
+> agrippina
+<u>ocremorph.n1640</u><u>ls.n1640</u>agrippin<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n1640</u><u>ls.n1640</u>agrippin<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> agrippinae
+<u>ocremorph.n1640</u><u>ls.n1640</u>agrippin<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>ocremorph.a_ae6</u>
+<u>ocremorph.n1640</u><u>ls.n1640</u>agrippin<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>ocremorph.a_ae2</u>
+<u>ocremorph.n1640</u><u>ls.n1640</u>agrippin<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>ocremorph.a_ae3</u>
+> ampliore
+> annivs
+> annona
+<u>ocremorph.n2675</u><u>ls.n2675</u>annon<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n2675</u><u>ls.n2675</u>annon<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> antiates
+> antiochia
+<u>ocremorph.geo5</u><u>ocre.geo5</u>antiochi<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.geo5</u><u>ocre.geo5</u>antiochi<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> antistivs
+<u>ocremorph.ocre12</u><u>ocre.pn12</u>antisti<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> antonia
+> antoninvs
+<u>ocremorph.n2926</u><u>ls.n2926</u>antonin<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> apollini
+<u>ocremorph.n3063</u><u>ls.n3063</u>apoll<noun><masc><o_inis><div><o_inis><noun>ini<masc><dat><sg><u>ocremorph.o_inis3</u>
+> apronivs
+<u>ocremorph.n3232</u><u>ls.n3232</u>aproni<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> aqvillivs
+<u>ocremorph.n3293</u><u>ls.n3293</u>aqvilli<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> ara
+> argento
+<u>ocremorph.n3559</u><u>ls.n3559</u>argent<noun><neut><us_i><div><us_i><noun>o<neut><dat><sg><u>ocremorph.us_i15</u>
+<u>ocremorph.n3559</u><u>ls.n3559</u>argent<noun><neut><us_i><div><us_i><noun>o<neut><abl><sg><u>ocremorph.us_i17</u>
+> armenia
+<u>ocremorph.n3674</u><u>ls.n3674</u>armeni<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n3674</u><u>ls.n3674</u>armeni<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> artaxias
+> asia
+<u>ocremorph.n3915</u><u>ls.n3915</u>asi<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n3915</u><u>ls.n3915</u>asi<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> asiae
+<u>ocremorph.n3915</u><u>ls.n3915</u>asi<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>ocremorph.a_ae6</u>
+<u>ocremorph.n3915</u><u>ls.n3915</u>asi<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>ocremorph.a_ae2</u>
+<u>ocremorph.n3915</u><u>ls.n3915</u>asi<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>ocremorph.a_ae3</u>
+> atqve
+> avg
+> avgvr
+<u>ocremorph.n4479</u><u>ls.n4479</u>avgvr<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>ocremorph.0_is1</u>
+> avgvsta
+<u>ocremorph.n4509</u><u>ls.n4509</u>avgvst<adj><us_a_um><div><us_a_um><adj>a<fem><nom><sg><pos><u>ocremorph.us_a_um37</u>
+<u>ocremorph.n4509</u><u>ls.n4509</u>avgvst<adj><us_a_um><div><us_a_um><adj>a<fem><abl><sg><pos><u>ocremorph.us_a_um41</u>
+<u>ocremorph.n4509</u><u>ls.n4509</u>avgvst<adj><us_a_um><div><us_a_um><adj>a<neut><nom><pl><pos><u>ocremorph.us_a_um80</u>
+<u>ocremorph.n4509</u><u>ls.n4509</u>avgvst<adj><us_a_um><div><us_a_um><adj>a<neut><acc><pl><pos><u>ocremorph.us_a_um83</u>
+> avgvstae
+<u>ocremorph.n4509</u><u>ls.n4509</u>avgvst<adj><us_a_um><div><us_a_um><adj>ae<fem><nom><pl><pos><u>ocremorph.us_a_um42</u>
+<u>ocremorph.n4509</u><u>ls.n4509</u>avgvst<adj><us_a_um><div><us_a_um><adj>ae<fem><gen><sg><pos><u>ocremorph.us_a_um38</u>
+<u>ocremorph.n4509</u><u>ls.n4509</u>avgvst<adj><us_a_um><div><us_a_um><adj>ae<fem><dat><sg><pos><u>ocremorph.us_a_um39</u>
+> avgvsti
+<u>ocremorph.n4509</u><u>ls.n4509</u>avgvst<adj><us_a_um><div><us_a_um><adj>i<masc><nom><pl><pos><u>ocremorph.us_a_um6</u>
+<u>ocremorph.n4509</u><u>ls.n4509</u>avgvst<adj><us_a_um><div><us_a_um><adj>i<masc><gen><sg><pos><u>ocremorph.us_a_um2</u>
+<u>ocremorph.n4509</u><u>ls.n4509</u>avgvst<adj><us_a_um><div><us_a_um><adj>i<neut><gen><sg><pos><u>ocremorph.us_a_um76</u>
+> avgvsto
+<u>ocremorph.n4509</u><u>ls.n4509</u>avgvst<adj><us_a_um><div><us_a_um><adj>o<masc><dat><sg><pos><u>ocremorph.us_a_um3</u>
+<u>ocremorph.n4509</u><u>ls.n4509</u>avgvst<adj><us_a_um><div><us_a_um><adj>o<masc><abl><sg><pos><u>ocremorph.us_a_um5</u>
+<u>ocremorph.n4509</u><u>ls.n4509</u>avgvst<adj><us_a_um><div><us_a_um><adj>o<neut><dat><sg><pos><u>ocremorph.us_a_um77</u>
+<u>ocremorph.n4509</u><u>ls.n4509</u>avgvst<adj><us_a_um><div><us_a_um><adj>o<neut><abl><sg><pos><u>ocremorph.us_a_um79</u>
+> avgvstvs
+<u>ocremorph.n4509</u><u>ls.n4509</u>avgvst<adj><us_a_um><div><us_a_um><adj>vs<masc><nom><sg><pos><u>ocremorph.us_a_um1</u>
+> avlvs
+<u>ocremorph.persn54</u><u>ls.n4530</u>avl<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> avrelivs
+<u>ocremorph.n4544</u><u>ls.n4544</u>avreli<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> avro
+<u>ocremorph.n4588</u><u>ls.n4588</u>avr<noun><neut><us_i><div><us_i><noun>o<neut><dat><sg><u>ocremorph.us_i15</u>
+<u>ocremorph.n4588</u><u>ls.n4588</u>avr<noun><neut><us_i><div><us_i><noun>o<neut><abl><sg><u>ocremorph.us_i17</u>
+> bassvs
+> betilienvs
+> blandvs
+> bonvs
+<u>ocremorph.n5558</u><u>ls.n5558</u>bon<adj><us_a_um_pos><div><us_a_um_pos><adj>vs<masc><nom><sg><pos><u>ocremorph.us_a_umpos1</u>
+> britannis
+> brittanis
+> caesar
+<u>ocremorph.n6080</u><u>ls.n6080</u>caesar<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>ocremorph.0_is1</u>
+> caesares
+<u>ocremorph.n6080</u><u>ls.n6080</u>caesar<noun><masc><0_is><div><0_is><noun>es<masc><nom><pl><u>ocremorph.0_is6</u>
+<u>ocremorph.n6080</u><u>ls.n6080</u>caesar<noun><masc><0_is><div><0_is><noun>es<masc><acc><pl><u>ocremorph.0_is9</u>
+> caesari
+<u>ocremorph.n6080</u><u>ls.n6080</u>caesar<noun><masc><0_is><div><0_is><noun>i<masc><dat><sg><u>ocremorph.0_is3</u>
+> caesaris
+<u>ocremorph.n6080</u><u>ls.n6080</u>caesar<noun><masc><0_is><div><0_is><noun>is<masc><gen><sg><u>ocremorph.0_is2</u>
+> caii
+<u>ocremorph.persn23</u><u>ls.n19196</u>cai<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>ocremorph.us_i6</u>
+<u>ocremorph.persn23</u><u>ls.n19196</u>cai<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>ocremorph.us_i2</u>
+> caivs
+<u>ocremorph.persn23</u><u>ls.n19196</u>cai<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> calpvrnivs
+> caninivs
+> caninvs
+<u>ocremorph.ocre24</u><u>ocre.pn24</u>canin<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> capella
+> capitolivm
+> capta
+<u>ocremorph.n6614c</u><u>ls.n6614</u><#>capt<verb><pftpass><div><pftpass><ptcpl>a<fem><nom><sg><pft><pass><u>ocremorph.pft_perfppl13</u>
+<u>ocremorph.n6614c</u><u>ls.n6614</u><#>capt<verb><pftpass><div><pftpass><ptcpl>a<fem><abl><sg><pft><pass><u>ocremorph.pft_perfppl17</u>
+<u>ocremorph.n6614c</u><u>ls.n6614</u><#>capt<verb><pftpass><div><pftpass><ptcpl>a<neut><nom><pl><pft><pass><u>ocremorph.pft_perfppl31</u>
+<u>ocremorph.n6614c</u><u>ls.n6614</u><#>capt<verb><pftpass><div><pftpass><ptcpl>a<neut><acc><pl><pft><pass><u>ocremorph.pft_perfppl34</u>
+> carisivs
+<u>ocremorph.ocre2</u><u>ocre.pn2</u>carisi<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> carthago
+> cassivs
+> catvllvs
+> celer
+> censor
+<u>ocremorph.n7381</u><u>ls.n7381</u>censor<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>ocremorph.0_is1</u>
+> censoria
+<u>ocremorph.n7383</u><u>ls.n7383</u>censori<adj><us_a_um><div><us_a_um><adj>a<fem><nom><sg><pos><u>ocremorph.us_a_um37</u>
+<u>ocremorph.n7383</u><u>ls.n7383</u>censori<adj><us_a_um><div><us_a_um><adj>a<fem><abl><sg><pos><u>ocremorph.us_a_um41</u>
+<u>ocremorph.n7383</u><u>ls.n7383</u>censori<adj><us_a_um><div><us_a_um><adj>a<neut><nom><pl><pos><u>ocremorph.us_a_um80</u>
+<u>ocremorph.n7383</u><u>ls.n7383</u>censori<adj><us_a_um><div><us_a_um><adj>a<neut><acc><pl><pos><u>ocremorph.us_a_um83</u>
+> censorinvs
+> cere
+> ceres
+<u>ocremorph.n7538</u><u>ls.n7538</u>cere<noun><fem><s_ris><div><s_ris><noun>s<fem><nom><sg><u>ocremorph.s_ris13</u>
+> certamen
+> cives
+<u>ocremorph.n8464</u><u>ls.n8464</u>civ<noun><masc><is_is><div><is_is><noun>es<masc><nom><pl><u>ocremorph.is_is6</u>
+<u>ocremorph.n8464</u><u>ls.n8464</u>civ<noun><masc><is_is><div><is_is><noun>es<masc><acc><pl><u>ocremorph.is_is9</u>
+> civibvs
+<u>ocremorph.n8464</u><u>ls.n8464</u>civ<noun><masc><is_is><div><is_is><noun>ibvs<masc><dat><pl><u>ocremorph.is_is8</u>
+<u>ocremorph.n8464</u><u>ls.n8464</u>civ<noun><masc><is_is><div><is_is><noun>ibvs<masc><abl><pl><u>ocremorph.is_is10</u>
+> civis
+<u>ocremorph.n8464</u><u>ls.n8464</u>civ<noun><masc><is_is><div><is_is><noun>is<masc><nom><sg><u>ocremorph.is_is1</u>
+<u>ocremorph.n8464</u><u>ls.n8464</u>civ<noun><masc><is_is><div><is_is><noun>is<masc><acc><pl><u>ocremorph.is_is9b</u>
+<u>ocremorph.n8464</u><u>ls.n8464</u>civ<noun><masc><is_is><div><is_is><noun>is<masc><gen><sg><u>ocremorph.is_is2</u>
+> civitatibvs
+<u>ocremorph.n8465</u><u>ls.n8465</u>civita<noun><fem><s_tis><div><s_tis><noun>tibvs<fem><dat><pl><u>ocremorph.stis20</u>
+<u>ocremorph.n8465</u><u>ls.n8465</u>civita<noun><fem><s_tis><div><s_tis><noun>tibvs<fem><abl><pl><u>ocremorph.stis22</u>
+> clavdii
+<u>ocremorph.n8534</u><u>ls.n8534</u>clavdi<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>ocremorph.us_i6</u>
+<u>ocremorph.n8534</u><u>ls.n8534</u>clavdi<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>ocremorph.us_i2</u>
+> clavdio
+<u>ocremorph.n8534</u><u>ls.n8534</u>clavdi<noun><masc><us_i><div><us_i><noun>o<masc><dat><sg><u>ocremorph.us_i3</u>
+<u>ocremorph.n8534</u><u>ls.n8534</u>clavdi<noun><masc><us_i><div><us_i><noun>o<masc><abl><sg><u>ocremorph.us_i5</u>
+> clavdivs
+<u>ocremorph.n8534</u><u>ls.n8534</u>clavdi<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> clodii
+> clodivs
+> clvsit
+> cnaei
+<u>ocremorph.persn24</u><u>ls.n19733</u>cnae<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>ocremorph.us_i6</u>
+<u>ocremorph.persn24</u><u>ls.n19733</u>cnae<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>ocremorph.us_i2</u>
+> cnaevs
+<u>ocremorph.persn24</u><u>ls.n19733</u>cnae<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> cohortivm
+> colonia
+> commodvs
+<u>ocremorph.n9429</u><u>ls.n9429</u>commod<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> commvne
+> commvnitas
+<u>ocremorph.n9478</u><u>ls.n9478</u>commvnita<noun><fem><s_tis><div><s_tis><noun>s<fem><nom><sg><u>ocremorph.stis13</u>
+> concordia
+<u>ocremorph.n9892</u><u>ls.n9892</u>concordi<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n9892</u><u>ls.n9892</u>concordi<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> congiarivm
+> consecratio
+<u>ocremorph.n10442</u><u>ls.n10442</u>consecrati<noun><fem><o_onis><div><o_onis><noun>o<fem><nom><sg><u>ocremorph.o_onis1</u>
+> consensv
+<u>ocremorph.n10464</u><u>ls.n10464</u>consens<noun><masc><us_us><div><us_us><noun>v<masc><nom><pl><u>ocremorph.us_us6</u>
+<u>ocremorph.n10464</u><u>ls.n10464</u>consens<noun><masc><us_us><div><us_us><noun>v<masc><dat><sg><u>ocremorph.us_us3b</u>
+<u>ocremorph.n10464</u><u>ls.n10464</u>consens<noun><masc><us_us><div><us_us><noun>v<masc><abl><sg><u>ocremorph.us_us5</u>
+> consensvs
+<u>ocremorph.n10464</u><u>ls.n10464</u>consens<noun><masc><us_us><div><us_us><noun>vs<masc><nom><sg><u>ocremorph.us_us1</u>
+<u>ocremorph.n10464</u><u>ls.n10464</u>consens<noun><masc><us_us><div><us_us><noun>vs<masc><acc><pl><u>ocremorph.us_us9</u>
+<u>ocremorph.n10464</u><u>ls.n10464</u>consens<noun><masc><us_us><div><us_us><noun>vs<masc><gen><sg><u>ocremorph.us_us2</u>
+> conservatam
+> conservator
+<u>ocremorph.n10489</u><u>ls.n10489</u>conservator<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>ocremorph.0_is1</u>
+> conservatori
+<u>ocremorph.n10489</u><u>ls.n10489</u>conservator<noun><masc><0_is><div><0_is><noun>i<masc><dat><sg><u>ocremorph.0_is3</u>
+> constantiae
+> constitvtvm
+> consvl
+<u>ocremorph.n10676</u><u>ls.n10676</u>consvl<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>ocremorph.0_is1</u>
+> consvles
+<u>ocremorph.n10676</u><u>ls.n10676</u>consvl<noun><masc><0_is><div><0_is><noun>es<masc><nom><pl><u>ocremorph.0_is6</u>
+<u>ocremorph.n10676</u><u>ls.n10676</u>consvl<noun><masc><0_is><div><0_is><noun>es<masc><acc><pl><u>ocremorph.0_is9</u>
+> consvli
+<u>ocremorph.n10676</u><u>ls.n10676</u>consvl<noun><masc><0_is><div><0_is><noun>i<masc><dat><sg><u>ocremorph.0_is3</u>
+> consvlis
+<u>ocremorph.n10676</u><u>ls.n10676</u>consvl<noun><masc><0_is><div><0_is><noun>is<masc><gen><sg><u>ocremorph.0_is2</u>
+> consvlto
+<u>ocremorph.n10692</u><u>ls.n10692</u>consvlt<noun><neut><us_i><div><us_i><noun>o<neut><dat><sg><u>ocremorph.us_i15</u>
+<u>ocremorph.n10692</u><u>ls.n10692</u>consvlt<noun><neut><us_i><div><us_i><noun>o<neut><abl><sg><u>ocremorph.us_i17</u>
+> cossvs
+> crispinvs
+> cvm
+> cvstos
+<u>ocremorph.n12076</u><u>ls.n12076</u>cvsto<noun><masc><s_dis><div><s_dis><noun>s<masc><nom><sg><u>ocremorph.s_dis1</u>
+> dacico
+<u>ocremorph.geoadj2</u><u>ocre.geoadj2</u>dacic<adj><us_a_um><div><us_a_um><adj>o<masc><dat><sg><pos><u>ocremorph.us_a_um3</u>
+<u>ocremorph.geoadj2</u><u>ocre.geoadj2</u>dacic<adj><us_a_um><div><us_a_um><adj>o<masc><abl><sg><pos><u>ocremorph.us_a_um5</u>
+<u>ocremorph.geoadj2</u><u>ocre.geoadj2</u>dacic<adj><us_a_um><div><us_a_um><adj>o<neut><dat><sg><pos><u>ocremorph.us_a_um77</u>
+<u>ocremorph.geoadj2</u><u>ocre.geoadj2</u>dacic<adj><us_a_um><div><us_a_um><adj>o<neut><abl><sg><pos><u>ocremorph.us_a_um79</u>
+> datvm
+> de
+<u>ocremorph.n12361</u><u>ls.n12361</u>de<indecl><indeclprep><div><indeclprep><indecl><u>indeclinfl.1</u>
+> decvrsio
+<u>ocremorph.n12588</u><u>ls.n12588</u>decvrsi<noun><fem><o_onis><div><o_onis><noun>o<fem><nom><sg><u>ocremorph.o_onis1</u>
+> designati
+<u>ocremorph.n13382c</u><u>ls.n13382</u><#>designat<verb><pftpass><div><pftpass><ptcpl>i<masc><nom><pl><pft><pass><u>ocremorph.pft_perfppl7</u>
+<u>ocremorph.n13382c</u><u>ls.n13382</u><#>designat<verb><pftpass><div><pftpass><ptcpl>i<masc><gen><sg><pft><pass><u>ocremorph.pft_perfppl2</u>
+<u>ocremorph.n13382c</u><u>ls.n13382</u><#>designat<verb><pftpass><div><pftpass><ptcpl>i<neut><gen><sg><pft><pass><u>ocremorph.pft_perfppl26</u>
+> designato
+<u>ocremorph.n13382c</u><u>ls.n13382</u><#>designat<verb><pftpass><div><pftpass><ptcpl>o<masc><dat><sg><pft><pass><u>ocremorph.pft_perfppl3</u>
+<u>ocremorph.n13382c</u><u>ls.n13382</u><#>designat<verb><pftpass><div><pftpass><ptcpl>o<masc><abl><sg><pft><pass><u>ocremorph.pft_perfppl5</u>
+<u>ocremorph.n13382c</u><u>ls.n13382</u><#>designat<verb><pftpass><div><pftpass><ptcpl>o<neut><abl><sg><pft><pass><u>ocremorph.pft_perfppl29</u>
+> designatvs
+<u>ocremorph.n13382c</u><u>ls.n13382</u><#>designat<verb><pftpass><div><pftpass><ptcpl>vs<masc><nom><sg><pft><pass><u>ocremorph.pft_perfppl1</u>
+> devicta
+<u>ocremorph.n13611c</u><u>ls.n13611</u><#>devict<verb><pftpass><div><pftpass><ptcpl>a<fem><nom><sg><pft><pass><u>ocremorph.pft_perfppl13</u>
+<u>ocremorph.n13611c</u><u>ls.n13611</u><#>devict<verb><pftpass><div><pftpass><ptcpl>a<fem><abl><sg><pft><pass><u>ocremorph.pft_perfppl17</u>
+<u>ocremorph.n13611c</u><u>ls.n13611</u><#>devict<verb><pftpass><div><pftpass><ptcpl>a<neut><nom><pl><pft><pass><u>ocremorph.pft_perfppl31</u>
+<u>ocremorph.n13611c</u><u>ls.n13611</u><#>devict<verb><pftpass><div><pftpass><ptcpl>a<neut><acc><pl><pft><pass><u>ocremorph.pft_perfppl34</u>
+> devitics
+> diana
+> diva
+<u>ocremorph.n14598</u><u>ls.n14598</u>div<adj><us_a_um><div><us_a_um><adj>a<fem><nom><sg><pos><u>ocremorph.us_a_um37</u>
+<u>ocremorph.n14598</u><u>ls.n14598</u>div<adj><us_a_um><div><us_a_um><adj>a<fem><abl><sg><pos><u>ocremorph.us_a_um41</u>
+<u>ocremorph.n14598</u><u>ls.n14598</u>div<adj><us_a_um><div><us_a_um><adj>a<neut><nom><pl><pos><u>ocremorph.us_a_um80</u>
+<u>ocremorph.n14598</u><u>ls.n14598</u>div<adj><us_a_um><div><us_a_um><adj>a<neut><acc><pl><pos><u>ocremorph.us_a_um83</u>
+> divae
+<u>ocremorph.n14598</u><u>ls.n14598</u>div<adj><us_a_um><div><us_a_um><adj>ae<fem><nom><pl><pos><u>ocremorph.us_a_um42</u>
+<u>ocremorph.n14598</u><u>ls.n14598</u>div<adj><us_a_um><div><us_a_um><adj>ae<fem><gen><sg><pos><u>ocremorph.us_a_um38</u>
+<u>ocremorph.n14598</u><u>ls.n14598</u>div<adj><us_a_um><div><us_a_um><adj>ae<fem><dat><sg><pos><u>ocremorph.us_a_um39</u>
+> divi
+<u>ocremorph.n14598</u><u>ls.n14598</u>div<adj><us_a_um><div><us_a_um><adj>i<masc><nom><pl><pos><u>ocremorph.us_a_um6</u>
+<u>ocremorph.n14598</u><u>ls.n14598</u>div<adj><us_a_um><div><us_a_um><adj>i<masc><gen><sg><pos><u>ocremorph.us_a_um2</u>
+<u>ocremorph.n14598</u><u>ls.n14598</u>div<adj><us_a_um><div><us_a_um><adj>i<neut><gen><sg><pos><u>ocremorph.us_a_um76</u>
+> divo
+<u>ocremorph.n14598</u><u>ls.n14598</u>div<adj><us_a_um><div><us_a_um><adj>o<masc><dat><sg><pos><u>ocremorph.us_a_um3</u>
+<u>ocremorph.n14598</u><u>ls.n14598</u>div<adj><us_a_um><div><us_a_um><adj>o<masc><abl><sg><pos><u>ocremorph.us_a_um5</u>
+<u>ocremorph.n14598</u><u>ls.n14598</u>div<adj><us_a_um><div><us_a_um><adj>o<neut><dat><sg><pos><u>ocremorph.us_a_um77</u>
+<u>ocremorph.n14598</u><u>ls.n14598</u>div<adj><us_a_um><div><us_a_um><adj>o<neut><abl><sg><pos><u>ocremorph.us_a_um79</u>
+> divvs
+<u>ocremorph.n14598</u><u>ls.n14598</u>div<adj><us_a_um><div><us_a_um><adj>vs<masc><nom><sg><pos><u>ocremorph.us_a_um1</u>
+> domitia
+> domitiae
+> domitiani
+<u>ocremorph.n14702</u><u>ls.n14702</u>domitian<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>ocremorph.us_i6</u>
+<u>ocremorph.n14702</u><u>ls.n14702</u>domitian<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>ocremorph.us_i2</u>
+> domitiano
+<u>ocremorph.n14702</u><u>ls.n14702</u>domitian<noun><masc><us_i><div><us_i><noun>o<masc><dat><sg><u>ocremorph.us_i3</u>
+<u>ocremorph.n14702</u><u>ls.n14702</u>domitian<noun><masc><us_i><div><us_i><noun>o<masc><abl><sg><u>ocremorph.us_i5</u>
+> domitianvs
+<u>ocremorph.n14702</u><u>ls.n14702</u>domitian<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> domitilla
+> domitillae
+> drvsilla
+> drvso
+<u>ocremorph.n14808</u><u>ls.n14808</u>drvs<noun><masc><us_i><div><us_i><noun>o<masc><dat><sg><u>ocremorph.us_i3</u>
+<u>ocremorph.n14808</u><u>ls.n14808</u>drvs<noun><masc><us_i><div><us_i><noun>o<masc><abl><sg><u>ocremorph.us_i5</u>
+> drvsvs
+<u>ocremorph.n14808</u><u>ls.n14808</u>drvs<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> dvrmivs
+<u>ocremorph.ocre7</u><u>ocre.pn7</u>dvrmi<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> emerita
+> ephesia
+> eqvester
+> eqvestris
+> est
+<u>ocremorph.irrv3</u><u>lexent.n46529</u><#>est<3rd><sg><pres><indic><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> et
+<u>ocremorph.n16278</u><u>ls.n16278</u>et<indecl><indeclconj><div><indeclconj><indecl><u>indeclinfl.2</u>
+> eventvm
+<u>ocremorph.n16462</u><u>ls.n16462</u>event<noun><masc><us_us><div><us_us><noun>vm<masc><acc><sg><u>ocremorph.us_us4</u>
+> eventvs
+<u>ocremorph.n16462</u><u>ls.n16462</u>event<noun><masc><us_us><div><us_us><noun>vs<masc><nom><sg><u>ocremorph.us_us1</u>
+<u>ocremorph.n16462</u><u>ls.n16462</u>event<noun><masc><us_us><div><us_us><noun>vs<masc><acc><pl><u>ocremorph.us_us9</u>
+<u>ocremorph.n16462</u><u>ls.n16462</u>event<noun><masc><us_us><div><us_us><noun>vs<masc><gen><sg><u>ocremorph.us_us2</u>
+> evm
+> ex
+<u>ocremorph.n16519</u><u>ls.n16519</u>ex<indecl><indeclprep><div><indeclprep><indecl><u>indeclinfl.1</u>
+> exercitvm
+<u>ocremorph.51</u><u>ls.n16824</u>exercit<noun><masc><us_us><div><us_us><noun>vm<masc><acc><sg><u>ocremorph.us_us4</u>
+> exercitvs
+<u>ocremorph.51</u><u>ls.n16824</u>exercit<noun><masc><us_us><div><us_us><noun>vs<masc><nom><sg><u>ocremorph.us_us1</u>
+<u>ocremorph.51</u><u>ls.n16824</u>exercit<noun><masc><us_us><div><us_us><noun>vs<masc><acc><pl><u>ocremorph.us_us9</u>
+<u>ocremorph.51</u><u>ls.n16824</u>exercit<noun><masc><us_us><div><us_us><noun>vs<masc><gen><sg><u>ocremorph.us_us2</u>
+> favstina
+<u>ocremorph.n17816</u><u>ls.n17816</u>favstin<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n17816</u><u>ls.n17816</u>favstin<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> favstinae
+<u>ocremorph.n17816</u><u>ls.n17816</u>favstin<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>ocremorph.a_ae6</u>
+<u>ocremorph.n17816</u><u>ls.n17816</u>favstin<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>ocremorph.a_ae2</u>
+<u>ocremorph.n17816</u><u>ls.n17816</u>favstin<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>ocremorph.a_ae3</u>
+> fecit
+<u>ocremorph.n17516b</u><u>ls.n17516</u><#>fec<verb><pftact><div><pftact><verb>it<3rd><sg><pft><indic><act><u>livymorph.pftact_pft3</u>
+> felicitas
+<u>ocremorph.n17878</u><u>ls.n17878</u>felicita<noun><fem><s_tis><div><s_tis><noun>s<fem><nom><sg><u>ocremorph.stis13</u>
+> ferivndo
+<u>ocremorph.n17953</u><u>ls.n17953</u><#>fer<verb><conj4><div><conj4><gerund>ivndo<dat><u>ocremorph.grd_conj4_2</u>
+<u>ocremorph.n17953</u><u>ls.n17953</u><#>fer<verb><conj4><div><conj4><gerund>ivndo<abl><u>ocremorph.grd_conj4_4</u>
+> feronia
+> fidei
+<u>ocremorph.n18127</u><u>ls.n18127</u>fid<noun><fem><es_ei><div><es_ei><noun>ei<fem><gen><sg><u>livymorph.es_ei2</u>
+<u>ocremorph.n18127</u><u>ls.n18127</u>fid<noun><fem><es_ei><div><es_ei><noun>ei<fem><dat><sg><u>livymorph.es_ei3</u>
+> fides
+<u>ocremorph.n18127</u><u>ls.n18127</u>fid<noun><fem><es_ei><div><es_ei><noun>es<fem><nom><sg><u>livymorph.es_ei1</u>
+<u>ocremorph.n18127</u><u>ls.n18127</u>fid<noun><fem><es_ei><div><es_ei><noun>es<fem><nom><pl><u>livymorph.es_ei6</u>
+<u>ocremorph.n18127</u><u>ls.n18127</u>fid<noun><fem><es_ei><div><es_ei><noun>es<fem><acc><pl><u>livymorph.es_ei9</u>
+> filia
+<u>ocremorph.n18173</u><u>ls.n18173</u>fili<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n18173</u><u>ls.n18173</u>fili<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> filiae
+<u>ocremorph.n18173</u><u>ls.n18173</u>fili<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>ocremorph.a_ae6</u>
+<u>ocremorph.n18173</u><u>ls.n18173</u>fili<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>ocremorph.a_ae2</u>
+<u>ocremorph.n18173</u><u>ls.n18173</u>fili<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>ocremorph.a_ae3</u>
+> filii
+<u>ocremorph.n18185</u><u>ls.n18185</u>fili<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>ocremorph.us_i6</u>
+<u>ocremorph.n18185</u><u>ls.n18185</u>fili<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>ocremorph.us_i2</u>
+> filio
+<u>ocremorph.n18185</u><u>ls.n18185</u>fili<noun><masc><us_i><div><us_i><noun>o<masc><dat><sg><u>ocremorph.us_i3</u>
+<u>ocremorph.n18185</u><u>ls.n18185</u>fili<noun><masc><us_i><div><us_i><noun>o<masc><abl><sg><u>ocremorph.us_i5</u>
+> filivs
+<u>ocremorph.n18185</u><u>ls.n18185</u>fili<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> flamen
+> flando
+<u>ocremorph.n18378</u><u>ls.n18378</u><#>fl<verb><conj1><div><conj1><gerund>ando<dat><u>ocremorph.grd_conj1_2</u>
+<u>ocremorph.n18378</u><u>ls.n18378</u><#>fl<verb><conj1><div><conj1><gerund>ando<abl><u>ocremorph.grd_conj1_4</u>
+> flavii
+<u>ocremorph.n18349</u><u>ls.n18349</u>flavi<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>ocremorph.us_i6</u>
+<u>ocremorph.n18349</u><u>ls.n18349</u>flavi<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>ocremorph.us_i2</u>
+> flavivs
+<u>ocremorph.n18349</u><u>ls.n18349</u>flavi<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> florvs
+<u>ocremorph.n18407</u><u>ls.n18407</u>flor<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> fortvna
+<u>ocremorph.n18643</u><u>ls.n18643</u>fortvn<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n18643</u><u>ls.n18643</u>fortvn<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> fortvnae
+<u>ocremorph.n18643</u><u>ls.n18643</u>fortvn<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>ocremorph.a_ae6</u>
+<u>ocremorph.n18643</u><u>ls.n18643</u>fortvn<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>ocremorph.a_ae2</u>
+<u>ocremorph.n18643</u><u>ls.n18643</u>fortvn<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>ocremorph.a_ae3</u>
+> galba
+<u>ocremorph.n19207</u><u>ls.n19207</u>galb<noun><masc><a_ae><div><a_ae><noun>a<masc><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n19207</u><u>ls.n19207</u>galb<noun><masc><a_ae><div><a_ae><noun>a<masc><abl><sg><u>ocremorph.a_ae5</u>
+> gallvs
+<u>ocremorph.n19275</u><u>ls.n19275</u>gall<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> galvs
+<u>ocremorph.ocre14</u><u>ocre.pn14</u>gal<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> genio
+<u>ocremorph.n19458</u><u>ls.n19458</u>geni<noun><masc><us_i><div><us_i><noun>o<masc><dat><sg><u>ocremorph.us_i3</u>
+<u>ocremorph.n19458</u><u>ls.n19458</u>geni<noun><masc><us_i><div><us_i><noun>o<masc><abl><sg><u>ocremorph.us_i5</u>
+> genivm
+<u>ocremorph.n19458</u><u>ls.n19458</u>geni<noun><masc><us_i><div><us_i><noun>vm<masc><acc><sg><u>ocremorph.us_i4</u>
+> genivs
+<u>ocremorph.n19458</u><u>ls.n19458</u>geni<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> germania
+<u>ocremorph.geo3</u><u>ocre.geo3</u>germani<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.geo3</u><u>ocre.geo3</u>germani<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> germanicae
+<u>ocremorph.geoadj3</u><u>ocre.geoadj3</u>germanic<adj><us_a_um><div><us_a_um><adj>ae<fem><nom><pl><pos><u>ocremorph.us_a_um42</u>
+<u>ocremorph.geoadj3</u><u>ocre.geoadj3</u>germanic<adj><us_a_um><div><us_a_um><adj>ae<fem><gen><sg><pos><u>ocremorph.us_a_um38</u>
+<u>ocremorph.geoadj3</u><u>ocre.geoadj3</u>germanic<adj><us_a_um><div><us_a_um><adj>ae<fem><dat><sg><pos><u>ocremorph.us_a_um39</u>
+> germanici
+<u>ocremorph.geoadj3</u><u>ocre.geoadj3</u>germanic<adj><us_a_um><div><us_a_um><adj>i<masc><nom><pl><pos><u>ocremorph.us_a_um6</u>
+<u>ocremorph.geoadj3</u><u>ocre.geoadj3</u>germanic<adj><us_a_um><div><us_a_um><adj>i<masc><gen><sg><pos><u>ocremorph.us_a_um2</u>
+<u>ocremorph.geoadj3</u><u>ocre.geoadj3</u>germanic<adj><us_a_um><div><us_a_um><adj>i<neut><gen><sg><pos><u>ocremorph.us_a_um76</u>
+> germanico
+<u>ocremorph.geoadj3</u><u>ocre.geoadj3</u>germanic<adj><us_a_um><div><us_a_um><adj>o<masc><dat><sg><pos><u>ocremorph.us_a_um3</u>
+<u>ocremorph.geoadj3</u><u>ocre.geoadj3</u>germanic<adj><us_a_um><div><us_a_um><adj>o<masc><abl><sg><pos><u>ocremorph.us_a_um5</u>
+<u>ocremorph.geoadj3</u><u>ocre.geoadj3</u>germanic<adj><us_a_um><div><us_a_um><adj>o<neut><dat><sg><pos><u>ocremorph.us_a_um77</u>
+<u>ocremorph.geoadj3</u><u>ocre.geoadj3</u>germanic<adj><us_a_um><div><us_a_um><adj>o<neut><abl><sg><pos><u>ocremorph.us_a_um79</u>
+> germanicvs
+<u>ocremorph.geoadj3</u><u>ocre.geoadj3</u>germanic<adj><us_a_um><div><us_a_um><adj>vs<masc><nom><sg><pos><u>ocremorph.us_a_um1</u>
+> germanis
+> graccvs
+> hadrianvs
+<u>ocremorph.ocre9</u><u>ocre.pn9</u>hadrian<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> hispania
+<u>ocremorph.geo4</u><u>ocre.geo4</u>hispani<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.geo4</u><u>ocre.geo4</u>hispani<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> honori
+<u>ocremorph.n20890</u><u>ls.n20890</u>hono<noun><masc><s_ris><div><s_ris><noun>ri<masc><dat><sg><u>ocremorph.s_ris3</u>
+<u>ocremorph.n20890</u><u>ls.n20890</u>hono<noun><masc><s_ris><div><s_ris><noun>ri<masc><abl><sg><u>ocremorph.s_ris5b</u>
+> honos
+<u>ocremorph.n20890</u><u>ls.n20890</u>hono<noun><masc><s_ris><div><s_ris><noun>s<masc><nom><sg><u>ocremorph.s_ris1</u>
+> ianvm
+> imperator
+<u>ocremorph.n21857</u><u>ls.n21857</u>imperator<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>ocremorph.0_is1</u>
+> imperatore
+<u>ocremorph.n21857</u><u>ls.n21857</u>imperator<noun><masc><0_is><div><0_is><noun>e<masc><abl><sg><u>ocremorph.0_is5</u>
+> imperatori
+<u>ocremorph.n21857</u><u>ls.n21857</u>imperator<noun><masc><0_is><div><0_is><noun>i<masc><dat><sg><u>ocremorph.0_is3</u>
+> imperatoris
+<u>ocremorph.n21857</u><u>ls.n21857</u>imperator<noun><masc><0_is><div><0_is><noun>is<masc><gen><sg><u>ocremorph.0_is2</u>
+> impertor
+> in
+> iovi
+<u>ocremorph.n25256</u><u>ls.n25256</u>iov<noun><masc><is_is><div><is_is><noun>i<masc><dat><sg><u>ocremorph.is_is3</u>
+<u>ocremorph.n25256</u><u>ls.n25256</u>iov<noun><masc><is_is><div><is_is><noun>i<masc><abl><sg><u>ocremorph.is_is5b</u>
+> iovis
+<u>ocremorph.n25256</u><u>ls.n25256</u>iov<noun><masc><is_is><div><is_is><noun>is<masc><nom><sg><u>ocremorph.is_is1</u>
+<u>ocremorph.n25256</u><u>ls.n25256</u>iov<noun><masc><is_is><div><is_is><noun>is<masc><acc><pl><u>ocremorph.is_is9b</u>
+<u>ocremorph.n25256</u><u>ls.n25256</u>iov<noun><masc><is_is><div><is_is><noun>is<masc><gen><sg><u>ocremorph.is_is2</u>
+> itervm
+<u>ocremorph.n25115</u><u>ls.n25115</u>itervm<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> ivdaea
+<u>ocremorph.n25276</u><u>ls.n25276</u>ivdae<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n25276</u><u>ls.n25276</u>ivdae<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> ivdaeis
+<u>ocremorph.n25276</u><u>ls.n25276</u>ivdae<noun><fem><a_ae><div><a_ae><noun>is<fem><dat><pl><u>ocremorph.a_ae8</u>
+<u>ocremorph.n25276</u><u>ls.n25276</u>ivdae<noun><fem><a_ae><div><a_ae><noun>is<fem><abl><pl><u>ocremorph.a_ae10</u>
+> ivlia
+<u>ocremorph.n25335b</u><u>ls.n25335</u>ivli<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n25335b</u><u>ls.n25335</u>ivli<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> ivliae
+<u>ocremorph.n25335b</u><u>ls.n25335</u>ivli<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>ocremorph.a_ae6</u>
+<u>ocremorph.n25335b</u><u>ls.n25335</u>ivli<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>ocremorph.a_ae2</u>
+<u>ocremorph.n25335b</u><u>ls.n25335</u>ivli<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>ocremorph.a_ae3</u>
+> ivlivs
+<u>ocremorph.n25335a</u><u>ls.n25335</u>ivli<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> ivppiter
+<u>ocremorph.n25359mns</u><u>lexent.n25359</u>ivppiter<masc><nom><sg><irregnoun><div><irregnoun><u>irreginfl.0</u>
+> ivstitia
+<u>ocremorph.n25422</u><u>ls.n25422</u>ivstiti<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n25422</u><u>ls.n25422</u>ivstiti<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> ivventvtis
+<u>ocremorph.n25447</u><u>ls.n25447</u>ivventv<noun><fem><s_tis><div><s_tis><noun>tis<fem><acc><pl><u>ocremorph.stis21b</u>
+<u>ocremorph.n25447</u><u>ls.n25447</u>ivventv<noun><fem><s_tis><div><s_tis><noun>tis<fem><gen><sg><u>ocremorph.stis14</u>
+> laetitia
+<u>ocremorph.n25648</u><u>ls.n25648</u>laetiti<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n25648</u><u>ls.n25648</u>laetiti<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> lamia
+> legatvs
+<u>ocremorph.57</u><u>ls.n26169</u>legat<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> lentvlvs
+> liberator
+> liberatrix
+> liberi
+<u>ocremorph.n26465</u><u>ls.n26465</u>lib<adj><er_era_erum><div><er_era_erum><adj>eri<masc><nom><pl><pos><u>latcommoninfl.er_era_erum6</u>
+<u>ocremorph.n26465</u><u>ls.n26465</u>lib<adj><er_era_erum><div><er_era_erum><adj>eri<masc><gen><sg><pos><u>latcommoninfl.er_era_erum2</u>
+<u>ocremorph.n26465</u><u>ls.n26465</u>lib<adj><er_era_erum><div><er_era_erum><adj>eri<masc><voc><pl><pos><u>latcommoninfl.er_era_erum12</u>
+<u>ocremorph.n26465</u><u>ls.n26465</u>lib<adj><er_era_erum><div><er_era_erum><adj>eri<neut><gen><sg><pos><u>latcommoninfl.er_era_erum76</u>
+> libertas
+<u>ocremorph.n26481</u><u>ls.n26481</u>liberta<noun><fem><s_tis><div><s_tis><noun>s<fem><nom><sg><u>ocremorph.stis13</u>
+> libertati
+<u>ocremorph.n26481</u><u>ls.n26481</u>liberta<noun><fem><s_tis><div><s_tis><noun>ti<fem><dat><sg><u>ocremorph.stis15</u>
+> libertatis
+<u>ocremorph.n26481</u><u>ls.n26481</u>liberta<noun><fem><s_tis><div><s_tis><noun>tis<fem><acc><pl><u>ocremorph.stis21b</u>
+<u>ocremorph.n26481</u><u>ls.n26481</u>liberta<noun><fem><s_tis><div><s_tis><noun>tis<fem><gen><sg><u>ocremorph.stis14</u>
+> licinivs
+<u>ocremorph.licini</u><u>ls.n26556</u>licini<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> lvcii
+<u>ocremorph.persn36</u><u>ls.n27079</u>lvci<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>ocremorph.us_i6</u>
+<u>ocremorph.persn36</u><u>ls.n27079</u>lvci<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>ocremorph.us_i2</u>
+> lvcivs
+<u>ocremorph.persn36</u><u>ls.n27079</u>lvci<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> lvdi
+<u>ocremorph.n27171</u><u>ls.n27171</u>lvd<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>ocremorph.us_i6</u>
+<u>ocremorph.n27171</u><u>ls.n27171</u>lvd<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>ocremorph.us_i2</u>
+> lvdos
+<u>ocremorph.n27171</u><u>ls.n27171</u>lvd<noun><masc><us_i><div><us_i><noun>os<masc><nom><sg><u>ocremorph.us_i1b</u>
+<u>ocremorph.n27171</u><u>ls.n27171</u>lvd<noun><masc><us_i><div><us_i><noun>os<masc><acc><pl><u>ocremorph.us_i9</u>
+> lvpercvs
+> lvrivs
+> macellvm
+> macer
+> macri
+> maecilivs
+> marci
+<u>ocremorph.persn41</u><u>ls.n28016</u>marc<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>ocremorph.us_i6</u>
+<u>ocremorph.persn41</u><u>ls.n28016</u>marc<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>ocremorph.us_i2</u>
+> marcivs
+> marcvs
+<u>ocremorph.persn41</u><u>ls.n28016</u>marc<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> mari
+> marivs
+<u>ocremorph.persn42</u><u>ls.n28057</u>mari<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> mars
+<u>ocremorph.n28088</u><u>ls.n28088</u>mar<noun><masc><s_tis><div><s_tis><noun>s<masc><nom><sg><u>ocremorph.stis1</u>
+> martialis
+> martis
+<u>ocremorph.n28088</u><u>ls.n28088</u>mar<noun><masc><s_tis><div><s_tis><noun>tis<masc><acc><pl><u>ocremorph.stis9b</u>
+<u>ocremorph.n28088</u><u>ls.n28088</u>mar<noun><masc><s_tis><div><s_tis><noun>tis<masc><gen><sg><u>ocremorph.stis2</u>
+> mater
+> matri
+> maximi
+<u>ocremorph.n27649</u><u>ls.n27649</u>maxim<adj><us_a_um_superl><div><us_a_um_superl><adj>i<masc><nom><pl><superl><u>ocremorph.us_a_um6</u>
+<u>ocremorph.n27649</u><u>ls.n27649</u>maxim<adj><us_a_um_superl><div><us_a_um_superl><adj>i<masc><gen><sg><superl><u>ocremorph.us_a_um2</u>
+<u>ocremorph.n27649</u><u>ls.n27649</u>maxim<adj><us_a_um_superl><div><us_a_um_superl><adj>i<neut><gen><sg><superl><u>ocremorph.us_a_um76</u>
+> maximo
+<u>ocremorph.n27649</u><u>ls.n27649</u>maxim<adj><us_a_um_superl><div><us_a_um_superl><adj>o<masc><dat><sg><superl><u>ocremorph.us_a_um3</u>
+<u>ocremorph.n27649</u><u>ls.n27649</u>maxim<adj><us_a_um_superl><div><us_a_um_superl><adj>o<masc><abl><sg><superl><u>ocremorph.us_a_um5</u>
+<u>ocremorph.n27649</u><u>ls.n27649</u>maxim<adj><us_a_um_superl><div><us_a_um_superl><adj>o<neut><dat><sg><superl><u>ocremorph.us_a_um77</u>
+<u>ocremorph.n27649</u><u>ls.n27649</u>maxim<adj><us_a_um_superl><div><us_a_um_superl><adj>o<neut><abl><sg><superl><u>ocremorph.us_a_um79</u>
+> maximvs
+<u>ocremorph.n27649</u><u>ls.n27649</u>maxim<adj><us_a_um_superl><div><us_a_um_superl><adj>vs<masc><nom><sg><superl><u>ocremorph.us_a_um1</u>
+> memoriae
+> mesalla
+> mescinivs
+> messalla
+<u>ocremorph.persn44</u><u>ls.n28869</u>messall<noun><masc><a_ae><div><a_ae><noun>a<masc><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.persn44</u><u>ls.n28869</u>messall<noun><masc><a_ae><div><a_ae><noun>a<masc><abl><sg><u>ocremorph.a_ae5</u>
+> messallina
+> militaribvs
+> moneta
+<u>ocremorph.n29546</u><u>ls.n29546</u>monet<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n29546</u><u>ls.n29546</u>monet<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> naevivs
+> navalis
+<u>ocremorph.n30548</u><u>ls.n30548</u>naval<adj><is_e><div><is_e><adj>is<masc><nom><sg><pos><u>livymorph.is_e1</u>
+<u>ocremorph.n30548</u><u>ls.n30548</u>naval<adj><is_e><div><is_e><adj>is<masc><acc><pl><pos><u>livymorph.is_e9b</u>
+<u>ocremorph.n30548</u><u>ls.n30548</u>naval<adj><is_e><div><is_e><adj>is<masc><gen><sg><pos><u>livymorph.is_e2</u>
+<u>ocremorph.n30548</u><u>ls.n30548</u>naval<adj><is_e><div><is_e><adj>is<fem><nom><sg><pos><u>livymorph.is_e37</u>
+<u>ocremorph.n30548</u><u>ls.n30548</u>naval<adj><is_e><div><is_e><adj>is<fem><acc><pl><pos><u>livymorph.is_e45b</u>
+<u>ocremorph.n30548</u><u>ls.n30548</u>naval<adj><is_e><div><is_e><adj>is<fem><gen><sg><pos><u>livymorph.is_e38</u>
+<u>ocremorph.n30548</u><u>ls.n30548</u>naval<adj><is_e><div><is_e><adj>is<fem><abl><pl><pos><u>livymorph.is_e46</u>
+<u>ocremorph.n30548</u><u>ls.n30548</u>naval<adj><is_e><div><is_e><adj>is<neut><gen><sg><pos><u>livymorph.is_e76</u>
+> nemavsvs
+> nepos
+> neptvnvs
+<u>ocremorph.n30771</u><u>ls.n30771</u>neptvn<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> nero
+<u>ocremorph.persn45</u><u>ls.n30804</u>ner<noun><masc><o_onis><div><o_onis><noun>o<masc><nom><sg><u>ocremorph.o_onis13</u>
+> neroni
+<u>ocremorph.persn45</u><u>ls.n30804</u>ner<noun><masc><o_onis><div><o_onis><noun>oni<masc><dat><sg><u>ocremorph.o_onis15</u>
+> neronis
+<u>ocremorph.persn45</u><u>ls.n30804</u>ner<noun><masc><o_onis><div><o_onis><noun>onis<masc><gen><sg><u>ocremorph.o_onis14</u>
+> nerva
+<u>ocremorph.persn46</u><u>ls.n30811</u>nerv<noun><masc><a_ae><div><a_ae><noun>a<masc><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.persn46</u><u>ls.n30811</u>nerv<noun><masc><a_ae><div><a_ae><noun>a<masc><abl><sg><u>ocremorph.a_ae5</u>
+> nervae
+<u>ocremorph.persn46</u><u>ls.n30811</u>nerv<noun><masc><a_ae><div><a_ae><noun>ae<masc><nom><pl><u>ocremorph.a_ae6</u>
+<u>ocremorph.persn46</u><u>ls.n30811</u>nerv<noun><masc><a_ae><div><a_ae><noun>ae<masc><gen><sg><u>ocremorph.a_ae2</u>
+<u>ocremorph.persn46</u><u>ls.n30811</u>nerv<noun><masc><a_ae><div><a_ae><noun>ae<masc><dat><sg><u>ocremorph.a_ae3</u>
+> nilvs
+<u>ocremorph.n30971</u><u>ls.n30971</u>nil<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> nona
+> nonivs
+> ob
+<u>ocremorph.n31564</u><u>ls.n31564</u>ob<indecl><indeclprep><div><indeclprep><indecl><u>indeclinfl.1</u>
+> optimo
+> orbis
+<u>ocremorph.n42209</u><u>ls.n42209</u>orb<noun><fem><s_is><div><s_is><noun>is<fem><acc><pl><u>ocremorph.s_is21b</u>
+<u>ocremorph.n42209</u><u>ls.n42209</u>orb<noun><fem><s_is><div><s_is><noun>is<fem><gen><sg><u>ocremorph.s_is14</u>
+> ordinis
+> ordo
+> ostiensem
+> otho
+> pace
+<u>ocremorph.n34250</u><u>ls.n34250</u>pa<noun><fem><x_cis><div><x_cis><noun>ce<fem><abl><sg><u>ocremorph.x_cis5</u>
+> paci
+<u>ocremorph.n34250</u><u>ls.n34250</u>pa<noun><fem><x_cis><div><x_cis><noun>ci<fem><dat><sg><u>ocremorph.x_cis3</u>
+> pacis
+<u>ocremorph.n34250</u><u>ls.n34250</u>pa<noun><fem><x_cis><div><x_cis><noun>cis<fem><gen><sg><u>ocremorph.x_cis2</u>
+> parenti
+> parta
+> parthicis
+> parthis
+> pater
+<u>ocremorph.n34096</u><u>ls.n34096</u>pat<noun><masc><er_ris><div><er_ris><noun>er<masc><nom><sg><u>ocremorph.er_ris1</u>
+> patri
+<u>ocremorph.n34096</u><u>ls.n34096</u>pat<noun><masc><er_ris><div><er_ris><noun>ri<masc><dat><sg><u>ocremorph.er_ris3</u>
+> patriae
+<u>ocremorph.n34131</u><u>ls.n34131</u>patri<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>ocremorph.a_ae6</u>
+<u>ocremorph.n34131</u><u>ls.n34131</u>patri<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>ocremorph.a_ae2</u>
+<u>ocremorph.n34131</u><u>ls.n34131</u>patri<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>ocremorph.a_ae3</u>
+> patris
+<u>ocremorph.n34096</u><u>ls.n34096</u>pat<noun><masc><er_ris><div><er_ris><noun>ris<masc><gen><sg><u>ocremorph.er_ris2</u>
+> pax
+<u>ocremorph.n34250</u><u>ls.n34250</u>pa<noun><fem><x_cis><div><x_cis><noun>x<fem><nom><sg><u>ocremorph.x_cis1</u>
+> per
+> perpetva
+<u>ocremorph.n35369</u><u>ls.n35369</u>perpetv<adj><us_a_um><div><us_a_um><adj>a<fem><nom><sg><pos><u>ocremorph.us_a_um37</u>
+<u>ocremorph.n35369</u><u>ls.n35369</u>perpetv<adj><us_a_um><div><us_a_um><adj>a<fem><abl><sg><pos><u>ocremorph.us_a_um41</u>
+<u>ocremorph.n35369</u><u>ls.n35369</u>perpetv<adj><us_a_um><div><us_a_um><adj>a<neut><nom><pl><pos><u>ocremorph.us_a_um80</u>
+<u>ocremorph.n35369</u><u>ls.n35369</u>perpetv<adj><us_a_um><div><us_a_um><adj>a<neut><acc><pl><pos><u>ocremorph.us_a_um83</u>
+> perpetvvs
+<u>ocremorph.n35369</u><u>ls.n35369</u>perpetv<adj><us_a_um><div><us_a_um><adj>vs<masc><nom><sg><pos><u>ocremorph.us_a_um1</u>
+> petronivs
+<u>ocremorph.persn47</u><u>ls.n35847</u>petroni<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> pietas
+<u>ocremorph.n36272</u><u>ls.n36272</u>pieta<noun><fem><s_tis><div><s_tis><noun>s<fem><nom><sg><u>ocremorph.stis13</u>
+> pii
+<u>ocremorph.n36487</u><u>ls.n36487</u>pi<adj><us_a_um><div><us_a_um><adj>i<masc><nom><pl><pos><u>ocremorph.us_a_um6</u>
+<u>ocremorph.n36487</u><u>ls.n36487</u>pi<adj><us_a_um><div><us_a_um><adj>i<masc><gen><sg><pos><u>ocremorph.us_a_um2</u>
+<u>ocremorph.n36487</u><u>ls.n36487</u>pi<adj><us_a_um><div><us_a_um><adj>i<neut><gen><sg><pos><u>ocremorph.us_a_um76</u>
+> piso
+<u>ocremorph.persn49</u><u>ls.n36439</u>pis<noun><masc><o_inis><div><o_inis><noun>o<masc><nom><sg><u>ocremorph.o_inis1</u>
+> pivs
+<u>ocremorph.n36487</u><u>ls.n36487</u>pi<adj><us_a_um><div><us_a_um><adj>vs<masc><nom><sg><pos><u>ocremorph.us_a_um1</u>
+> platorinvs
+> plotivs
+> pontif
+> pontifex
+<u>ocremorph.n37018</u><u>ls.n37018</u>pontif<noun><masc><ex_icis><div><ex_icis><noun>ex<masc><nom><sg><u>ocremorph.ex_icis1</u>
+> pontifici
+<u>ocremorph.n37018</u><u>ls.n37018</u>pontif<noun><masc><ex_icis><div><ex_icis><noun>ici<masc><dat><sg><u>ocremorph.ex_icis3</u>
+<u>ocremorph.n37018</u><u>ls.n37018</u>pontif<noun><masc><ex_icis><div><ex_icis><noun>ici<masc><abl><sg><u>ocremorph.ex_icis5b</u>
+> pontificis
+<u>ocremorph.n37018</u><u>ls.n37018</u>pontif<noun><masc><ex_icis><div><ex_icis><noun>icis<masc><acc><pl><u>ocremorph.ex_icis9b</u>
+<u>ocremorph.n37018</u><u>ls.n37018</u>pontif<noun><masc><ex_icis><div><ex_icis><noun>icis<masc><gen><sg><u>ocremorph.ex_icis2</u>
+> popvli
+<u>ocremorph.n37077</u><u>ls.n37077</u>popvl<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>ocremorph.us_i6</u>
+<u>ocremorph.n37077</u><u>ls.n37077</u>popvl<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>ocremorph.us_i2</u>
+> popvlo
+<u>ocremorph.n37077</u><u>ls.n37077</u>popvl<noun><masc><us_i><div><us_i><noun>o<masc><dat><sg><u>ocremorph.us_i3</u>
+<u>ocremorph.n37077</u><u>ls.n37077</u>popvl<noun><masc><us_i><div><us_i><noun>o<masc><abl><sg><u>ocremorph.us_i5</u>
+> popvlvs
+<u>ocremorph.n37077</u><u>ls.n37077</u>popvl<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> portvm
+> potestae
+> potestate
+<u>ocremorph.n37292</u><u>ls.n37292</u>potesta<noun><fem><s_tis><div><s_tis><noun>te<fem><abl><sg><u>ocremorph.stis17</u>
+> praetore
+<u>ocremorph.n38120</u><u>ls.n38120</u>praetor<noun><masc><0_is><div><0_is><noun>e<masc><abl><sg><u>ocremorph.0_is5</u>
+> primvm
+> princeps
+<u>ocremorph.n38341</u><u>ls.n38341</u>princ<noun><masc><eps_ipis><div><eps_ipis><noun>eps<masc><nom><sg><u>ocremorph.eps_ipis1</u>
+> principes
+<u>ocremorph.n38341</u><u>ls.n38341</u>princ<noun><masc><eps_ipis><div><eps_ipis><noun>ipes<masc><nom><pl><u>ocremorph.eps_ipis6</u>
+<u>ocremorph.n38341</u><u>ls.n38341</u>princ<noun><masc><eps_ipis><div><eps_ipis><noun>ipes<masc><acc><pl><u>ocremorph.eps_ipis9</u>
+> principi
+<u>ocremorph.n38341</u><u>ls.n38341</u>princ<noun><masc><eps_ipis><div><eps_ipis><noun>ipi<masc><dat><sg><u>ocremorph.eps_ipis3</u>
+> pro
+<u>ocremorph.n38383</u><u>ls.n38383</u>pro<indecl><indeclprep><div><indeclprep><indecl><u>indeclinfl.1</u>
+> pronepos
+> propraetor
+> providentia
+<u>ocremorph.n39205</u><u>ls.n39205</u>providenti<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n39205</u><u>ls.n39205</u>providenti<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> provinciae
+> pvblica
+<u>ocremorph.n39399</u><u>ls.n39399</u>pvblic<adj><us_a_um><div><us_a_um><adj>a<fem><nom><sg><pos><u>ocremorph.us_a_um37</u>
+<u>ocremorph.n39399</u><u>ls.n39399</u>pvblic<adj><us_a_um><div><us_a_um><adj>a<fem><abl><sg><pos><u>ocremorph.us_a_um41</u>
+<u>ocremorph.n39399</u><u>ls.n39399</u>pvblic<adj><us_a_um><div><us_a_um><adj>a<neut><nom><pl><pos><u>ocremorph.us_a_um80</u>
+<u>ocremorph.n39399</u><u>ls.n39399</u>pvblic<adj><us_a_um><div><us_a_um><adj>a<neut><acc><pl><pos><u>ocremorph.us_a_um83</u>
+> pvblicae
+<u>ocremorph.n39399</u><u>ls.n39399</u>pvblic<adj><us_a_um><div><us_a_um><adj>ae<fem><nom><pl><pos><u>ocremorph.us_a_um42</u>
+<u>ocremorph.n39399</u><u>ls.n39399</u>pvblic<adj><us_a_um><div><us_a_um><adj>ae<fem><gen><sg><pos><u>ocremorph.us_a_um38</u>
+<u>ocremorph.n39399</u><u>ls.n39399</u>pvblic<adj><us_a_um><div><us_a_um><adj>ae<fem><dat><sg><pos><u>ocremorph.us_a_um39</u>
+> pvblicam
+<u>ocremorph.n39399</u><u>ls.n39399</u>pvblic<adj><us_a_um><div><us_a_um><adj>am<fem><acc><sg><pos><u>ocremorph.us_a_um40</u>
+> pvblivs
+<u>ocremorph.persn17</u><u>ls.n39402</u>pvbli<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> pvdicitia
+<u>ocremorph.n39414</u><u>ls.n39414</u>pvdiciti<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n39414</u><u>ls.n39414</u>pvdiciti<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> pvlcher
+> qve
+> qvinctilian
+> qvinctivs
+> qvinqvenalle
+> qvinti
+<u>ocremorph.persn16</u><u>ls.n40222</u>qvint<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>ocremorph.us_i6</u>
+<u>ocremorph.persn16</u><u>ls.n40222</u>qvint<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>ocremorph.us_i2</u>
+> qvintvs
+<u>ocremorph.persn16</u><u>ls.n40222</u>qvint<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> qvod
+> recepta
+<u>ocremorph.n40577c</u><u>ls.n40577</u><#>recept<verb><pftpass><div><pftpass><ptcpl>a<fem><nom><sg><pft><pass><u>ocremorph.pft_perfppl13</u>
+<u>ocremorph.n40577c</u><u>ls.n40577</u><#>recept<verb><pftpass><div><pftpass><ptcpl>a<fem><abl><sg><pft><pass><u>ocremorph.pft_perfppl17</u>
+<u>ocremorph.n40577c</u><u>ls.n40577</u><#>recept<verb><pftpass><div><pftpass><ptcpl>a<neut><nom><pl><pft><pass><u>ocremorph.pft_perfppl31</u>
+<u>ocremorph.n40577c</u><u>ls.n40577</u><#>recept<verb><pftpass><div><pftpass><ptcpl>a<neut><acc><pl><pft><pass><u>ocremorph.pft_perfppl34</u>
+> receptis
+<u>ocremorph.n40577c</u><u>ls.n40577</u><#>recept<verb><pftpass><div><pftpass><ptcpl>is<masc><dat><pl><pft><pass><u>ocremorph.pft_perfppl9</u>
+<u>ocremorph.n40577c</u><u>ls.n40577</u><#>recept<verb><pftpass><div><pftpass><ptcpl>is<masc><abl><pl><pft><pass><u>ocremorph.pft_perfppl11</u>
+<u>ocremorph.n40577c</u><u>ls.n40577</u><#>recept<verb><pftpass><div><pftpass><ptcpl>is<fem><dat><pl><pft><pass><u>ocremorph.pft_perfppl21</u>
+<u>ocremorph.n40577c</u><u>ls.n40577</u><#>recept<verb><pftpass><div><pftpass><ptcpl>is<fem><abl><pl><pft><pass><u>ocremorph.pft_perfppl23</u>
+<u>ocremorph.n40577c</u><u>ls.n40577</u><#>recept<verb><pftpass><div><pftpass><ptcpl>is<neut><dat><pl><pft><pass><u>ocremorph.pft_perfppl33</u>
+<u>ocremorph.n40577c</u><u>ls.n40577</u><#>recept<verb><pftpass><div><pftpass><ptcpl>is<neut><abl><pl><pft><pass><u>ocremorph.pft_perfppl35</u>
+> recepto
+<u>ocremorph.n40577c</u><u>ls.n40577</u><#>recept<verb><pftpass><div><pftpass><ptcpl>o<masc><dat><sg><pft><pass><u>ocremorph.pft_perfppl3</u>
+<u>ocremorph.n40577c</u><u>ls.n40577</u><#>recept<verb><pftpass><div><pftpass><ptcpl>o<masc><abl><sg><pft><pass><u>ocremorph.pft_perfppl5</u>
+<u>ocremorph.n40577c</u><u>ls.n40577</u><#>recept<verb><pftpass><div><pftpass><ptcpl>o<neut><abl><sg><pft><pass><u>ocremorph.pft_perfppl29</u>
+> recvperatis
+> reditv
+> redvci
+<u>ocremorph.n40777</u><u>ls.n40777</u>redv<adj><x_cis><div><x_cis><adj>ci<masc><dat><sg><pos><u>livymorph.x_cis3</u>
+<u>ocremorph.n40777</u><u>ls.n40777</u>redv<adj><x_cis><div><x_cis><adj>ci<masc><abl><sg><pos><u>livymorph.x_cis5b</u>
+<u>ocremorph.n40777</u><u>ls.n40777</u>redv<adj><x_cis><div><x_cis><adj>ci<fem><dat><sg><pos><u>livymorph.x_cis39</u>
+<u>ocremorph.n40777</u><u>ls.n40777</u>redv<adj><x_cis><div><x_cis><adj>ci<fem><abl><sg><pos><u>livymorph.x_cis41b</u>
+<u>ocremorph.n40777</u><u>ls.n40777</u>redv<adj><x_cis><div><x_cis><adj>ci<neut><dat><sg><pos><u>livymorph.x_cis75</u>
+<u>ocremorph.n40777</u><u>ls.n40777</u>redv<adj><x_cis><div><x_cis><adj>ci<neut><abl><sg><pos><u>livymorph.x_cis77</u>
+> redvx
+<u>ocremorph.n40777</u><u>ls.n40777</u>redv<adj><x_cis><div><x_cis><adj>x<masc><nom><sg><pos><u>livymorph.x_cis1</u>
+<u>ocremorph.n40777</u><u>ls.n40777</u>redv<adj><x_cis><div><x_cis><adj>x<fem><nom><sg><pos><u>livymorph.x_cis37</u>
+<u>ocremorph.n40777</u><u>ls.n40777</u>redv<adj><x_cis><div><x_cis><adj>x<neut><nom><sg><pos><u>livymorph.x_cis73</u>
+<u>ocremorph.n40777</u><u>ls.n40777</u>redv<adj><x_cis><div><x_cis><adj>x<neut><acc><sg><pos><u>livymorph.x_cis76</u>
+> reginvs
+<u>ocremorph.ocre21</u><u>ocre.pn21</u>regin<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> regvlvs
+> rem
+<u>ocremorph.n41293</u><u>ls.n41293</u>r<noun><fem><es_ei><div><es_ei><noun>em<fem><acc><sg><u>livymorph.es_ei4</u>
+> renascens
+> res
+<u>ocremorph.n41293</u><u>ls.n41293</u>r<noun><fem><es_ei><div><es_ei><noun>es<fem><nom><sg><u>livymorph.es_ei1</u>
+<u>ocremorph.n41293</u><u>ls.n41293</u>r<noun><fem><es_ei><div><es_ei><noun>es<fem><nom><pl><u>livymorph.es_ei6</u>
+<u>ocremorph.n41293</u><u>ls.n41293</u>r<noun><fem><es_ei><div><es_ei><noun>es<fem><acc><pl><u>livymorph.es_ei9</u>
+> restitvit
+<u>ocremorph.n41420b</u><u>ls.n41420</u><#>restitv<verb><pftact><div><pftact><verb>it<3rd><sg><pft><indic><act><u>livymorph.pftact_pft3</u>
+> restitvta
+<u>ocremorph.n41420c</u><u>ls.n41420</u><#>restitvt<verb><pftpass><div><pftpass><ptcpl>a<fem><nom><sg><pft><pass><u>ocremorph.pft_perfppl13</u>
+<u>ocremorph.n41420c</u><u>ls.n41420</u><#>restitvt<verb><pftpass><div><pftpass><ptcpl>a<fem><abl><sg><pft><pass><u>ocremorph.pft_perfppl17</u>
+<u>ocremorph.n41420c</u><u>ls.n41420</u><#>restitvt<verb><pftpass><div><pftpass><ptcpl>a<neut><nom><pl><pft><pass><u>ocremorph.pft_perfppl31</u>
+<u>ocremorph.n41420c</u><u>ls.n41420</u><#>restitvt<verb><pftpass><div><pftpass><ptcpl>a<neut><acc><pl><pft><pass><u>ocremorph.pft_perfppl34</u>
+> restitvtis
+<u>ocremorph.n41420c</u><u>ls.n41420</u><#>restitvt<verb><pftpass><div><pftpass><ptcpl>is<masc><dat><pl><pft><pass><u>ocremorph.pft_perfppl9</u>
+<u>ocremorph.n41420c</u><u>ls.n41420</u><#>restitvt<verb><pftpass><div><pftpass><ptcpl>is<masc><abl><pl><pft><pass><u>ocremorph.pft_perfppl11</u>
+<u>ocremorph.n41420c</u><u>ls.n41420</u><#>restitvt<verb><pftpass><div><pftpass><ptcpl>is<fem><dat><pl><pft><pass><u>ocremorph.pft_perfppl21</u>
+<u>ocremorph.n41420c</u><u>ls.n41420</u><#>restitvt<verb><pftpass><div><pftpass><ptcpl>is<fem><abl><pl><pft><pass><u>ocremorph.pft_perfppl23</u>
+<u>ocremorph.n41420c</u><u>ls.n41420</u><#>restitvt<verb><pftpass><div><pftpass><ptcpl>is<neut><dat><pl><pft><pass><u>ocremorph.pft_perfppl33</u>
+<u>ocremorph.n41420c</u><u>ls.n41420</u><#>restitvt<verb><pftpass><div><pftpass><ptcpl>is<neut><abl><pl><pft><pass><u>ocremorph.pft_perfppl35</u>
+> resvrgens
+<u>ocremorph.n41449</u><u>ls.n41449</u><#>resvrg<verb><c3pres><div><c3pres><ptcpl>ens<masc><nom><sg><pres><act><u>ocremorph.ere3_conj3presapl37</u>
+<u>ocremorph.n41449</u><u>ls.n41449</u><#>resvrg<verb><c3pres><div><c3pres><ptcpl>ens<fem><nom><sg><pres><act><u>ocremorph.ere3_conj3presapl49</u>
+<u>ocremorph.n41449</u><u>ls.n41449</u><#>resvrg<verb><c3pres><div><c3pres><ptcpl>ens<neut><nom><sg><pres><act><u>ocremorph.ere3_conj3presapl61</u>
+<u>ocremorph.n41449</u><u>ls.n41449</u><#>resvrg<verb><c3pres><div><c3pres><ptcpl>ens<neut><acc><sg><pres><act><u>ocremorph.ere3_conj3presapl64</u>
+> roma
+<u>ocremorph.n41840</u><u>ls.n41840</u>rom<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n41840</u><u>ls.n41840</u>rom<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> romae
+<u>ocremorph.n41840</u><u>ls.n41840</u>rom<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>ocremorph.a_ae6</u>
+<u>ocremorph.n41840</u><u>ls.n41840</u>rom<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>ocremorph.a_ae2</u>
+<u>ocremorph.n41840</u><u>ls.n41840</u>rom<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>ocremorph.a_ae3</u>
+> romani
+<u>ocremorph.geoadj34</u><u>ocre.geoadj4</u>roman<adj><us_a_um><div><us_a_um><adj>i<masc><nom><pl><pos><u>ocremorph.us_a_um6</u>
+<u>ocremorph.geoadj34</u><u>ocre.geoadj4</u>roman<adj><us_a_um><div><us_a_um><adj>i<masc><gen><sg><pos><u>ocremorph.us_a_um2</u>
+<u>ocremorph.geoadj34</u><u>ocre.geoadj4</u>roman<adj><us_a_um><div><us_a_um><adj>i<neut><gen><sg><pos><u>ocremorph.us_a_um76</u>
+> romano
+<u>ocremorph.geoadj34</u><u>ocre.geoadj4</u>roman<adj><us_a_um><div><us_a_um><adj>o<masc><dat><sg><pos><u>ocremorph.us_a_um3</u>
+<u>ocremorph.geoadj34</u><u>ocre.geoadj4</u>roman<adj><us_a_um><div><us_a_um><adj>o<masc><abl><sg><pos><u>ocremorph.us_a_um5</u>
+<u>ocremorph.geoadj34</u><u>ocre.geoadj4</u>roman<adj><us_a_um><div><us_a_um><adj>o<neut><dat><sg><pos><u>ocremorph.us_a_um77</u>
+<u>ocremorph.geoadj34</u><u>ocre.geoadj4</u>roman<adj><us_a_um><div><us_a_um><adj>o<neut><abl><sg><pos><u>ocremorph.us_a_um79</u>
+> romanvs
+<u>ocremorph.geoadj34</u><u>ocre.geoadj4</u>roman<adj><us_a_um><div><us_a_um><adj>vs<masc><nom><sg><pos><u>ocremorph.us_a_um1</u>
+> rvbellivs
+> rvfvs
+> rvstivs
+> sacerdos
+> sacrvm
+> saecvlares
+<u>ocremorph.n42209</u><u>ls.n42209</u>saecvlar<adj><is_e><div><is_e><adj>es<masc><nom><pl><pos><u>livymorph.is_e6</u>
+<u>ocremorph.n42209</u><u>ls.n42209</u>saecvlar<adj><is_e><div><is_e><adj>es<masc><acc><pl><pos><u>livymorph.is_e9</u>
+<u>ocremorph.n42209</u><u>ls.n42209</u>saecvlar<adj><is_e><div><is_e><adj>es<fem><nom><pl><pos><u>livymorph.is_e42</u>
+<u>ocremorph.n42209</u><u>ls.n42209</u>saecvlar<adj><is_e><div><is_e><adj>es<fem><acc><pl><pos><u>livymorph.is_e45</u>
+> saecvli
+> salvivs
+> salvs
+<u>ocremorph.n42415</u><u>ls.n42415</u>salv<noun><fem><s_tis><div><s_tis><noun>s<fem><nom><sg><u>ocremorph.stis13</u>
+> salvte
+<u>ocremorph.n42415</u><u>ls.n42415</u>salv<noun><fem><s_tis><div><s_tis><noun>te<fem><abl><sg><u>ocremorph.stis17</u>
+> salvti
+<u>ocremorph.n42415</u><u>ls.n42415</u>salv<noun><fem><s_tis><div><s_tis><noun>ti<fem><dat><sg><u>ocremorph.stis15</u>
+> sanqvinivs
+> scarpvs
+> secvritas
+<u>ocremorph.n43282</u><u>ls.n43282</u>secvrita<noun><fem><s_tis><div><s_tis><noun>s<fem><nom><sg><u>ocremorph.stis13</u>
+> semis
+> sempronivs
+> senastvs
+> senatvs
+<u>ocremorph.n43622</u><u>ls.n43622</u>senat<noun><masc><us_us><div><us_us><noun>vs<masc><nom><sg><u>ocremorph.us_us1</u>
+<u>ocremorph.n43622</u><u>ls.n43622</u>senat<noun><masc><us_us><div><us_us><noun>vs<masc><acc><pl><u>ocremorph.us_us9</u>
+<u>ocremorph.n43622</u><u>ls.n43622</u>senat<noun><masc><us_us><div><us_us><noun>vs<masc><gen><sg><u>ocremorph.us_us2</u>
+> servateis
+> servatos
+<u>ocremorph.n43947c</u><u>ls.n43947</u><#>servat<verb><pftpass><div><pftpass><ptcpl>os<masc><acc><pl><pft><pass><u>ocremorph.pft_perfppl10</u>
+> servivs
+<u>ocremorph.n43946</u><u>ls.n43946</u>servi<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> sextvs
+> sicilia
+> signis
+<u>ocremorph.n44227</u><u>ls.n44227</u>sign<noun><neut><us_i><div><us_i><noun>is<neut><dat><pl><u>ocremorph.us_i20</u>
+<u>ocremorph.n44227</u><u>ls.n44227</u>sign<noun><neut><us_i><div><us_i><noun>is<neut><abl><pl><u>ocremorph.us_i22</u>
+> silianvs
+<u>ocremorph.persn50</u><u>ls.n44255</u>silian<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> silivs
+> sisenna
+<u>cremorph.ocre15</u><u>ocre.pn15</u>sisenn<noun><masc><a_ae><div><a_ae><noun>a<masc><nom><sg><u>ocremorph.a_ae1</u>
+<u>cremorph.ocre15</u><u>ocre.pn15</u>sisenn<noun><masc><a_ae><div><a_ae><noun>a<masc><abl><sg><u>ocremorph.a_ae5</u>
+> spes
+<u>ocremorph.n44971</u><u>ls.n44971</u>sp<noun><fem><es_ei><div><es_ei><noun>es<fem><nom><sg><u>livymorph.es_ei1</u>
+<u>ocremorph.n44971</u><u>ls.n44971</u>sp<noun><fem><es_ei><div><es_ei><noun>es<fem><nom><pl><u>livymorph.es_ei6</u>
+<u>ocremorph.n44971</u><u>ls.n44971</u>sp<noun><fem><es_ei><div><es_ei><noun>es<fem><acc><pl><u>livymorph.es_ei9</u>
+> statv
+> stipendivm
+> stolo
+<u>ocremorph.persn51</u><u>ls.n45472</u>stol<noun><masc><o_onis><div><o_onis><noun>o<masc><nom><sg><u>ocremorph.o_onis13</u>
+> svlpicianvs
+> svlpicivs
+<u>ocremorph.n46527</u><u>ls.n46527</u>svlpici<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> svo
+> svrdinvs
+> svscepta
+> svsceptis
+> tavrvs
+> terra
+<u>ocremorph.n47897</u><u>ls.n47897</u>terr<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n47897</u><u>ls.n47897</u>terr<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> terrarvm
+<u>ocremorph.n47897</u><u>ls.n47897</u>terr<noun><fem><a_ae><div><a_ae><noun>arvm<fem><gen><pl><u>ocremorph.a_ae7</u>
+> tertivs
+> tiberi
+> tiberivs
+<u>ocremorph.persn13</u><u>ls.n48301</u>tiberi<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> titi
+<u>ocremorph.persn57</u><u>ls.n48455</u>tit<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>ocremorph.us_i6</u>
+<u>ocremorph.persn57</u><u>ls.n48455</u>tit<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>ocremorph.us_i2</u>
+> tito
+<u>ocremorph.persn57</u><u>ls.n48455</u>tit<noun><masc><us_i><div><us_i><noun>o<masc><dat><sg><u>ocremorph.us_i3</u>
+<u>ocremorph.persn57</u><u>ls.n48455</u>tit<noun><masc><us_i><div><us_i><noun>o<masc><abl><sg><u>ocremorph.us_i5</u>
+> titvs
+<u>ocremorph.persn57</u><u>ls.n48455</u>tit<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> tonantis
+> traiano
+<u>ocremorph.persn11</u><u>ls.n48711</u>traian<noun><masc><us_i><div><us_i><noun>o<masc><dat><sg><u>ocremorph.us_i3</u>
+<u>ocremorph.persn11</u><u>ls.n48711</u>traian<noun><masc><us_i><div><us_i><noun>o<masc><abl><sg><u>ocremorph.us_i5</u>
+> traianvs
+<u>ocremorph.persn11</u><u>ls.n48711</u>traian<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> tranqvilliore
+> tribvnicia
+<u>ocremorph.n49000</u><u>ls.n49000</u>tribvnici<adj><us_a_um><div><us_a_um><adj>a<fem><nom><sg><pos><u>ocremorph.us_a_um37</u>
+<u>ocremorph.n49000</u><u>ls.n49000</u>tribvnici<adj><us_a_um><div><us_a_um><adj>a<fem><abl><sg><pos><u>ocremorph.us_a_um41</u>
+<u>ocremorph.n49000</u><u>ls.n49000</u>tribvnici<adj><us_a_um><div><us_a_um><adj>a<neut><nom><pl><pos><u>ocremorph.us_a_um80</u>
+<u>ocremorph.n49000</u><u>ls.n49000</u>tribvnici<adj><us_a_um><div><us_a_um><adj>a<neut><acc><pl><pos><u>ocremorph.us_a_um83</u>
+> trivmphvs
+<u>ocremorph.n49241</u><u>ls.n49241</u>trivmph<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> trivmvir
+<u>ocremorph.n49242</u><u>ls.n49242</u>trivmvir<noun><masc><0_i><div><0_i><noun><masc><nom><sg><u>ocremorph.0_i1</u>
+> tromentinvs
+<u>ocremorph.ocre23</u><u>ocre.pn23</u>tromentin<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> tvllvs
+> tvrpilianvs
+<u>ocremorph.ocre4</u><u>ocre.pn4</u>tvrpilian<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> tvtela
+<u>ocremorph.n49537</u><u>ls.n49537</u>tvtel<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n49537</u><u>ls.n49537</u>tvtel<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> valerivs
+<u>ocremorph.persn9</u><u>ls.n50126</u>valeri<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> valetvdine
+> vbiqve
+> venvs
+<u>ocremorph.n50478</u><u>ls.n50478</u>ven<noun><fem><us_eris><div><us_eris><noun>vs<fem><nom><sg><u>ocremorph.us_eris1</u>
+<u>ocremorph.n50478</u><u>ls.n50478</u>ven<noun><fem><us_eris><div><us_eris><noun>vs<fem><acc><sg><u>ocremorph.us_eris4</u>
+> vervs
+<u>ocremorph.ocre11</u><u>ocre.pn11</u>ver<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> vespasiani
+<u>ocremorph.persn12</u><u>ls.n50698</u>vespasian<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>ocremorph.us_i6</u>
+<u>ocremorph.persn12</u><u>ls.n50698</u>vespasian<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>ocremorph.us_i2</u>
+> vespasiano
+<u>ocremorph.persn12</u><u>ls.n50698</u>vespasian<noun><masc><us_i><div><us_i><noun>o<masc><dat><sg><u>ocremorph.us_i3</u>
+<u>ocremorph.persn12</u><u>ls.n50698</u>vespasian<noun><masc><us_i><div><us_i><noun>o<masc><abl><sg><u>ocremorph.us_i5</u>
+> vespasianvs
+<u>ocremorph.persn12</u><u>ls.n50698</u>vespasian<noun><masc><us_i><div><us_i><noun>vs<masc><nom><sg><u>ocremorph.us_i1</u>
+> vesta
+<u>ocremorph.n50714</u><u>ls.n50714</u>vest<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n50714</u><u>ls.n50714</u>vest<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> vetvs
+<u>ocremorph.ocre13</u><u>ocre.pn13</u>vet<noun><masc><us_eris><div><us_eris><noun>vs<masc><nom><sg><u>ocremorph.us_eris1</u>
+<u>ocremorph.ocre13</u><u>ocre.pn13</u>vet<noun><masc><us_eris><div><us_eris><noun>vs<masc><acc><sg><u>ocremorph.us_eris4</u>
+> victor
+<u>ocremorph.n50865</u><u>ls.n50865</u>victor<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>ocremorph.0_is1</u>
+> victori
+<u>ocremorph.n50865</u><u>ls.n50865</u>victor<noun><masc><0_is><div><0_is><noun>i<masc><dat><sg><u>ocremorph.0_is3</u>
+> victoria
+<u>ocremorph.n50867</u><u>ls.n50867</u>victori<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>ocremorph.a_ae1</u>
+<u>ocremorph.n50867</u><u>ls.n50867</u>victori<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>ocremorph.a_ae5</u>
+> victoriae
+<u>ocremorph.n50867</u><u>ls.n50867</u>victori<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>ocremorph.a_ae6</u>
+<u>ocremorph.n50867</u><u>ls.n50867</u>victori<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>ocremorph.a_ae2</u>
+<u>ocremorph.n50867</u><u>ls.n50867</u>victori<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>ocremorph.a_ae3</u>
+> victrici
+<u>ocremorph.n50873</u><u>ls.n50873</u>victri<noun><fem><x_cis><div><x_cis><noun>ci<fem><dat><sg><u>ocremorph.x_cis3</u>
+> victrix
+<u>ocremorph.n50873</u><u>ls.n50873</u>victri<noun><fem><x_cis><div><x_cis><noun>x<fem><nom><sg><u>ocremorph.x_cis1</u>
+> vindex
+> vinicivs
+> virtvs
+<u>ocremorph.n51108</u><u>ls.n51108</u>virtv<noun><fem><s_tis><div><s_tis><noun>s<fem><nom><sg><u>ocremorph.stis13</u>
+> virtvti
+<u>ocremorph.n51108</u><u>ls.n51108</u>virtv<noun><fem><s_tis><div><s_tis><noun>ti<fem><dat><sg><u>ocremorph.stis15</u>
+> vltor
+<u>ocremorph.n49665</u><u>ls.n49665</u>vltor<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>ocremorph.0_is1</u>
+> vltoris
+<u>ocremorph.n49665</u><u>ls.n49665</u>vltor<noun><masc><0_is><div><0_is><noun>is<masc><gen><sg><u>ocremorph.0_is2</u>
+> volvsvs
+> vota
+<u>ocremorph.n51403</u><u>ls.n51403</u>vot<noun><neut><us_i><div><us_i><noun>a<neut><nom><pl><u>ocremorph.us_i18</u>
+<u>ocremorph.n51403</u><u>ls.n51403</u>vot<noun><neut><us_i><div><us_i><noun>a<neut><acc><pl><u>ocremorph.us_i21</u>
+> votis
+<u>ocremorph.n51403</u><u>ls.n51403</u>vot<noun><neut><us_i><div><us_i><noun>is<neut><dat><pl><u>ocremorph.us_i20</u>
+<u>ocremorph.n51403</u><u>ls.n51403</u>vot<noun><neut><us_i><div><us_i><noun>is<neut><abl><pl><u>ocremorph.us_i22</u>
