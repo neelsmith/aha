@@ -157,9 +157,9 @@ libertas pontifex maximvs tribvnicia potestate XIII imperator VIII consvl V pate
 ---
 
 <figure class="alignright">
-<img src="../static/imgs/libertas-by-legend-and-date.png" alt="Mints of Augustus"/>
+<img src="../static/imgs/libertas-classes.png" alt="Mints of Augustus"/>
 <figcaption>
-  <p>Mints: Augustus vs. OCRE</p>
+  <p></p>
 </figcaption>
 </figure>
 
