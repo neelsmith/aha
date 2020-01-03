@@ -106,6 +106,7 @@ val txts = for ((psg,idx) <- psgUrns.zipWithIndex) yield {
   }
 }
 
+
 txts.size
 println(txts.distinct.sorted.mkString("\n"))
 
@@ -122,7 +123,7 @@ val colorMap : Map[String, Color.RGB] = Map(
 "libertas restitvta" -> Color.RGB(250,0, 0),
 "libertas popvli romani" -> Color.RGB(0,250,0),
 "libertas" -> Color.RGB(0,0, 250),
-"adsertor/salvs/pax" -> Color.RGB(250,250,250),
+"adsertor/salvs/pax" -> Color.RGB(10,10,10),
 "libertas avgvsti" -> Color.RGB(0,180,180)
 )
 
@@ -189,8 +190,40 @@ val datedTextGroups = miniOcres.map { case(legend, miniOcre) => {
 
 val mapped = datedTextGroups.toMap //("libertas avgvsti"))
 
-mapped("libertas avgvsti").toVector.map(_._1)
 
+// Classify libertas issues
+
+val libertasClasses = Map(
+"adsertor libertatis" -> "adsertor/salvs/pax",
+"imperator caesar divi filivs consvl Ⅵ libertatis popvli romani vindex" -> "libertas popvli romani",
+"imperator Ⅱ consvl Ⅱ pater patriae senatvs consvlto libertas avgvsti" -> "libertas avgvsti",
+"imperator Ⅱ senatvs consvlto libertas senatvs consvlto" -> "libertas",
+"libertas" -> "libertas",
+"libertas avgvsta" -> "libertas avgvsti",
+"libertas avgvsta senatvs consvlto" ->  "libertas avgvsti",
+"libertas avgvsti" ->  "libertas avgvsti",
+"libertas avgvsti imperatoris Ⅱ consvlis patris patriae senatvs consvlto" ->  "libertas avgvsti",
+"libertas avgvsti pontif" ->  "libertas avgvsti",
+"libertas avgvsti pontifex maximvs tribvnicia potestate ⅩⅣ imperator Ⅷ consvl Ⅴ pater patriae senatvs consvlto" ->  "libertas avgvsti",
+"libertas avgvsti pontificis maximi tribvnicia potestate ⅩⅠ imperatoris Ⅶ consvlis Ⅴ patris patriae senatvs consvlto" ->  "libertas avgvsti",
+"libertas avgvsti popvli romani" ->  "libertas popvli romani",
+"libertas avgvsti senatvs consvlto" -> "libertas avgvsti",
+"libertas avgvsti senatvs consvlto remissa quadragensima" -> "libertas avgvsti",
+"libertas avgvsti tribvnicia potestate Ⅵ imperatoris Ⅳ consvlis Ⅲ patris patriae senatvs consvlto" -> "libertas avgvsti",
+"libertas consvl Ⅳ senatvs consvlto" -> "libertas",
+"libertas pontifex maximvs tribvnicia potestate ⅩⅢ imperator ⅤⅢ consvl Ⅴ pater patriae" -> "libertas avgvsti",
+"libertas pvblica" ->  "libertas popvli romani",
+"libertas pvblica senatvs consvlto" -> "libertas popvli romani",
+"libertas restitvta" -> "libertas restitvta",
+"libertas restitvta senatvs consvlto" -> "libertas restitvta",
+"libertati" -> "libertas",
+"pax et libertas" ->  "adsertor/salvs/pax",
+"pontifex maximvs tribvnicia potestate consvl Ⅲ libertas pvblica" -> "libertas popvli romani",
+"pontifex maximvs tribvnicia potestate consvl Ⅲ senatvs consvlto libertas restitvta" -> "libertas restitvta",
+"qvintvs cassivs libertas" -> "libertas",
+"salvs et libertas" ->  "adsertor/salvs/pax",
+"senatvs popvlvs+qve romanvs adsertori libertatis pvblicae" -> "libertas popvli romani"
+)
 
 val traces = for (legend <- mapped.keySet) yield {
   //println(legend + ", " + colorMap(legend))
@@ -265,37 +298,6 @@ plot(txtData,txtLayout)
 
 
 
-val libertasClasses = Map(
-"adsertor libertatis" -> "adsertor/salvs/pax",
-"imperator caesar divi filivs consvl Ⅵ libertatis popvli romani vindex" -> "libertas popvli romani",
-"imperator Ⅱ consvl Ⅱ pater patriae senatvs consvlto libertas avgvsti" -> "libertas avgvsti",
-"imperator Ⅱ senatvs consvlto libertas senatvs consvlto" -> "libertas",
-"libertas" -> "libertas",
-"libertas avgvsta" -> "libertas avgvsti",
-"libertas avgvsta senatvs consvlto" ->  "libertas avgvsti",
-"libertas avgvsti" ->  "libertas avgvsti",
-"libertas avgvsti imperatoris Ⅱ consvlis patris patriae senatvs consvlto" ->  "libertas avgvsti",
-"libertas avgvsti pontif" ->  "libertas avgvsti",
-"libertas avgvsti pontifex maximvs tribvnicia potestate ⅩⅣ imperator Ⅷ consvl Ⅴ pater patriae senatvs consvlto" ->  "libertas avgvsti",
-"libertas avgvsti pontificis maximi tribvnicia potestate ⅩⅠ imperatoris Ⅶ consvlis Ⅴ patris patriae senatvs consvlto" ->  "libertas avgvsti",
-"libertas avgvsti popvli romani" ->  "libertas popvli romani",
-"libertas avgvsti senatvs consvlto" -> "libertas avgvsti",
-"libertas avgvsti senatvs consvlto remissa quadragensima" -> "libertas avgvsti",
-"libertas avgvsti tribvnicia potestate Ⅵ imperatoris Ⅳ consvlis Ⅲ patris patriae senatvs consvlto" -> "libertas avgvsti",
-"libertas consvl Ⅳ senatvs consvlto" -> "libertas",
-"libertas pontifex maximvs tribvnicia potestate ⅩⅢ imperator ⅤⅢ consvl Ⅴ pater patriae" -> "libertas avgvsti",
-"libertas pvblica" ->  "libertas popvli romani",
-"libertas pvblica senatvs consvlto" -> "libertas popvli romani",
-"libertas restitvta" -> "libertas restitvta",
-"libertas restitvta senatvs consvlto" -> "libertas restitvta",
-"libertati" -> "libertas",
-"pax et libertas" ->  "adsertor/salvs/pax",
-"pontifex maximvs tribvnicia potestate consvl Ⅲ libertas pvblica" -> "libertas popvli romani",
-"pontifex maximvs tribvnicia potestate consvl Ⅲ senatvs consvlto libertas restitvta" -> "libertas restitvta",
-"qvintvs cassivs libertas" -> "libertas",
-"salvs et libertas" ->  "adsertor/salvs/pax",
-"senatvs popvlvs+qve romanvs adsertori libertatis pvblicae" -> "libertas popvli romani"
-)
 
 println(libertasClasses.values.toVector.distinct.mkString("\n"))
 
