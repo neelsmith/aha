@@ -32,23 +32,31 @@ All legends: 98566
 
 ---
 
-## So..
 
-apply apropriate tool
+## Apply computational tool of your choice
+
+
+- geographic information system
+- statistical packages
+- natural language analysis
+
 
 ---
 
 ## Tweeting?
 
-- frequency of issues:  every 4 days!
-    - frequency
-    - frequency by authority
-- text: lengths
-- widely circulated texts
-- official, sanctioned contents
+- **frequent**:
+    - 97 issues per year (every 4 days for 500 years!)
+    - rate varies by authority
+- **terse**: average text ~ 21 characters
+- **widely circulated** texts
+- **official**, sanctioned contents
 
 
 <!-- note
+
+Average annual rate of striking: 96.64886 issues per year
+
 Total characters: 2144309
 Average number of characters per legend: 21
 
@@ -57,10 +65,71 @@ Chronological range of issues in OCRE: 32 BCE - 491 CE
 
 -->
 
+---
+
+<div class="wrap">
+<img class="alignright size-80" src="../static/imgs/annual-frequency.png" alt="Issues per year"/>
+
+
+<p>Jobs unveiled the iPhone to the public on January 9, 2007, at the Macworld 2007 convention at the Moscone Center in San Francisco.  Apple sold 6.1 million first generation iPhone units over five quarters.</p>
+
+<p><strong>Image size recommended</strong>: 800x600px / 600x450px.</p>
+</div>
+
 
 ---
 
 
+<div class="wrap">
+  <div class="grid vertical-align">
+    <div class="column">
+    Terse
+    </div>
+    <div class="column">
+    <figure class="alignright">
+    <img src="../static/imgs/annual-frequency.png" alt="Issues per year"/>
+    <figcaption>
+      <p>Number of issues per year</p>
+    </figcaption>
+    </figure>
+    </div>
+  </div>
+</div>
+
+---
+
+
+<figure class="alignright">
+<img src="../static/imgs/annual-frequency.png" alt="Issues per year"/>
+<figcaption>
+  <p>Number of issues per year</p>
+</figcaption>
+</figure>
+
+
+---
+
+
+
+<figure class="alignright">
+<img src="../static/imgs/annual-frequency-by-authority.png" alt="Issues per year"/>
+<figcaption>
+  <p>Rate of issues per authority</p>
+</figcaption>
+</figure>
+
+---
+
+
+
+<figure class="alignright">
+<img src="../static/imgs/augustus-vs-ocre.png" alt="Issues per year"/>
+<figcaption>
+  <p>Numbers of issues per mint</p>
+</figcaption>
+</figure>
+
+---
 
 ## Building a text corpus
 
@@ -180,7 +249,7 @@ Goats: 3403 (3.452509% of 98566)
 
 ---
 
-# Conclusion 
+# Conclusion
 
 not just active search  for specific content, but exploration of multidimensional data using variety of instruments
 

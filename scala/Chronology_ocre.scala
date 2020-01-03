@@ -9,11 +9,16 @@ import $ivy.`edu.holycross.shot::histoutils:2.2.0`
 import $ivy.`org.plotly-scala::plotly-almond:0.7.1`
 
 import edu.holycross.shot.nomisma._
-val ocreCex = "https://raw.githubusercontent.com/neelsmith/nomisma/master/cex/ocre-cite-ids.cex"
-val ocre = OcreSource.fromUrl(ocreCex)
+// Import OCRE data -- from URL, or a local file:
+//
+//val ocreCex = "https://raw.githubusercontent.com/neelsmith/nomisma/master/cex/ocre-cite-ids.cex"
+//val ocre = OcreSource.fromUrl(ocreCex)
+//
+val ocreCexFile = "ocre-cite-ids.cex"
+val ocre = OcreSource.fromFile(ocreCexFile)
 
 // Sanity check:
-println(ocre.size + " records loaded.") 
+println(ocre.size + " records loaded.")
 
 
 // Import plotly libraries, and set display defaults suggested for use in Jupyter NBs:
@@ -45,13 +50,24 @@ val yearCounts = yearHisto.frequencies.map(_.count)
 val annualPlot = Seq(
   Bar(x = years, y = yearCounts)
 )
-plot(annualPlot)
+
+
+val legendsLayout = Layout(
+  title = "Frequency of issues, 32 BCE - 491 CE",
+  showlegend = false,
+  yaxis = Axis(title = "Number of issues"),
+  xaxis = Axis(title = "Year CE"),
+  height = 600,
+  width = 900
+)
+
+plot(annualPlot, legendsLayout)
 
 val byAuthorityChronological = ocre.datable.byAuthority
 val authNames = byAuthorityChronological.map(_._1)
 val authOcres =  byAuthorityChronological.map(_._2)
 
-
+// THis is slow: be patient
 val summaries = for (auth <- authNames) yield {
     print(auth + ": ")
     val ocreForAuth =  Ocre(ocre.issuesForAuthority(auth))
@@ -63,6 +79,15 @@ val summaries = for (auth <- authNames) yield {
 val issueFreqPlot = Seq(
   Bar(x = authNames, y = summaries.map(_._4))
 )
-plot(issueFreqPlot)
+
+val authorityFreqLayout = Layout(
+  title = "Annual frequency of issues grouped by authority",
+  showlegend = false,
+  yaxis = Axis(title = "Average number of issues per year"),
+  xaxis = Axis(title = "Issuing authority"),
+  height = 600,
+  width = 900
+)
+plot(issueFreqPlot, authorityFreqLayout)
 
 plot(annualPlot)
