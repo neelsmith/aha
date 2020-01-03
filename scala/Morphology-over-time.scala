@@ -191,6 +191,7 @@ val mapped = datedTextGroups.toMap //("libertas avgvsti"))
 
 mapped("libertas avgvsti").toVector.map(_._1)
 
+
 val traces = for (legend <- mapped.keySet) yield {
   //println(legend + ", " + colorMap(legend))
   val colorClass = libertasClasses(legend)
@@ -198,7 +199,7 @@ val traces = for (legend <- mapped.keySet) yield {
     //datedTextHisto.frequencies.map(_.item),
     mapped(legend).toVector.map(_._1),
     mapped(legend).toVector.map(_._2),
-    text = mapped(legend).toString,
+    text = legend, //+ mapped(legend).toString,
     name = legend,
     //datedTextHisto.frequencies.map(_.count),
     //text = datedTextHisto.frequencies.map(_.toString),
