@@ -1,29 +1,31 @@
-adsertor libertatis
-imperator caesar divi filivs consvl Ⅵ libertatis popvli romani vindex
-imperator Ⅱ consvl Ⅱ pater patriae senatvs consvlto libertas avgvsti
-imperator Ⅱ senatvs consvlto libertas senatvs consvlto
-libertas
-libertas avgvsta
-libertas avgvsta senatvs consvlto
-libertas avgvsti
-libertas avgvsti imperatoris Ⅱ consvlis patris patriae senatvs consvlto
-libertas avgvsti pontif
-libertas avgvsti pontifex maximvs tribvnicia potestate ⅩⅣ imperator Ⅷ consvl Ⅴ pater patriae senatvs consvlto
-libertas avgvsti pontificis maximi tribvnicia potestate ⅩⅠ imperatoris Ⅶ consvlis Ⅴ patris patriae senatvs consvlto
-libertas avgvsti popvli romani
-libertas avgvsti senatvs consvlto
-libertas avgvsti senatvs consvlto remissa quadragensima
-libertas avgvsti tribvnicia potestate Ⅵ imperatoris Ⅳ consvlis Ⅲ patris patriae senatvs consvlto
-libertas consvl Ⅳ senatvs consvlto
-libertas pontifex maximvs tribvnicia potestate ⅩⅢ imperator ⅤⅢ consvl Ⅴ pater patriae
-libertas pvblica
-libertas pvblica senatvs consvlto
-libertas restitvta
-libertas restitvta senatvs consvlto
-libertati
-pax et libertas
-pontifex maximvs tribvnicia potestate consvl Ⅲ libertas pvblica
-pontifex maximvs tribvnicia potestate consvl Ⅲ senatvs consvlto libertas restitvta
-qvintvs cassivs libertas
-salvs et libertas
-senatvs popvlvs+qve romanvs adsertori libertatis pvblicae
+val libClasses = Map(
+"adsertor libertatis" -> "adsertor/salvs/pax",
+"imperator caesar divi filivs consvl Ⅵ libertatis popvli romani vindex" -> "libertas popvli romani",
+"imperator Ⅱ consvl Ⅱ pater patriae senatvs consvlto libertas avgvsti" -> "libertas avgvsti",
+"imperator Ⅱ senatvs consvlto libertas senatvs consvlto" -> "libertas",
+"libertas" -> "libertas",
+"libertas avgvsta" -> "libertas avgvsti",
+"libertas avgvsta senatvs consvlto" ->  "libertas avgvsti",
+"libertas avgvsti" ->  "libertas avgvsti",
+"libertas avgvsti imperatoris Ⅱ consvlis patris patriae senatvs consvlto" ->  "libertas avgvsti",
+"libertas avgvsti pontif" ->  "libertas avgvsti",
+"libertas avgvsti pontifex maximvs tribvnicia potestate ⅩⅣ imperator Ⅷ consvl Ⅴ pater patriae senatvs consvlto" ->  "libertas avgvsti",
+"libertas avgvsti pontificis maximi tribvnicia potestate ⅩⅠ imperatoris Ⅶ consvlis Ⅴ patris patriae senatvs consvlto" ->  "libertas avgvsti",
+"libertas avgvsti popvli romani" ->  "libertas popvli romani",
+"libertas avgvsti senatvs consvlto" -> "libertas avgvsti",
+"libertas avgvsti senatvs consvlto remissa quadragensima" -> "libertas avgvsti",
+"libertas avgvsti tribvnicia potestate Ⅵ imperatoris Ⅳ consvlis Ⅲ patris patriae senatvs consvlto" -> "libertas avgvsti",
+"libertas consvl Ⅳ senatvs consvlto" -> "libertas",
+"libertas pontifex maximvs tribvnicia potestate ⅩⅢ imperator ⅤⅢ consvl Ⅴ pater patriae" -> "libertas avgvsti",
+"libertas pvblica" ->  "libertas popvli romani",
+"libertas pvblica senatvs consvlto" -> "libertas popvli romani",
+"libertas restitvta" -> "libertas restitvta",
+"libertas restitvta senatvs consvlto" -> "libertas restitvta",
+"libertati" -> "libertas",
+"pax et libertas" ->  "adsertor/salvs/pax",
+"pontifex maximvs tribvnicia potestate consvl Ⅲ libertas pvblica" -> "libertas popvli romani",
+"pontifex maximvs tribvnicia potestate consvl Ⅲ senatvs consvlto libertas restitvta" -> "libertas restitvta",
+"qvintvs cassivs libertas" -> "libertas",
+"salvs et libertas" ->  "adsertor/salvs/pax",
+"senatvs popvlvs+qve romanvs adsertori libertatis pvblicae" -> "libertas popvli romani"
+)
