@@ -20,7 +20,13 @@
 - defined data structure
 - stable identifiers
 
-
+<!-- note
+Obv legends: 50148
+Rev legends: 48418
+All: 98566
+Total characters: 2144309
+Average number of characters per legend: 21
+-->
 
 ---
 
@@ -32,6 +38,15 @@
 - text: lengths
 - widely circulated texts
 - official, sanctioned contents
+
+
+<!-- note
+Total number of issues in OCRE: 50644
+Number of datable issues: 50613
+Chronological range of issues in OCRE: 32 BCE - 491 CE
+
+-->
+
 
 ---
 
@@ -140,11 +155,7 @@ The RDF download from November, 2019, included 51267 records. 50645 of them were
 ---
 
 
-Obv legends: 50148
-Rev legends: 48418
-All: 98566
-Total characters: 2144309
-Average number of characters per legend: 21
+
 
 ---
 
@@ -159,10 +170,5 @@ Goats: 3403 (3.452509% of 98566)
 
 ---
 
-Total number of issues in OCRE: 50644
-Number of datable issues: 50613
-Chronological range of issues in OCRE: 32 BCE:491 CE
-Earliest issue: -32
-Latest issues: 491
 
 ---
