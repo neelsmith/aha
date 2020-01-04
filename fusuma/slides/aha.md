@@ -123,7 +123,10 @@ Chronological range of issues in OCRE: 32 BCE - 491 CE
 
 - average text ~ 21 characters
 - limited vocabulary
-- highly abbreviated (LOL)
+  - e.g., RIC 1-3: only 424 distinct tokens!
+- highly abbreviated
+  - e.g. `R XL` = *remissae quadragensimae* (LOL)
+
 
 
 ---
@@ -167,6 +170,12 @@ libertas pontifex maximvs tribvnicia potestate XIII imperator VIII consvl V pate
 ---
 
 ## An example: `libertas`
+
+
+Expanded corpus resolves:
+
+- orthographic ambiguity (`LIB` = `libertas` or `1iberalitas`?)
+- morphological ambiguity (nom., gen., dat. all appear)
 
 ---
 
