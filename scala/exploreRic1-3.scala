@@ -27,13 +27,7 @@ println("Texts on coins of " + textsByAuth.size + " authorities.")
 
 /// OCRE CORPUS
 import $ivy.`edu.holycross.shot::nomisma:3.1.1`
-/*
-import $ivy.`edu.holycross.shot::histoutils:2.2.0`
-import $ivy.`org.plotly-scala::plotly-almond:0.7.1`
-import $ivy.`edu.holycross.shot::midvalidator:9.2.0`
-import $ivy.`edu.holycross.shot::latphone:2.7.2`
-import $ivy.`edu.holycross.shot::latincorpus:2.2.1`
-*/
+
 import edu.holycross.shot.nomisma._
 val ocreCexUrl = "https://raw.githubusercontent.com/neelsmith/nomisma/master/cex/ocre-cite-ids.cex"
 val ocre = OcreSource.fromUrl(ocreCexUrl)

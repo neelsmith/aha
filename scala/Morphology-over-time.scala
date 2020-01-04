@@ -60,6 +60,10 @@ val libertasOccurs = occurrencesFromForm("libertas", ocreTokens)
 libertasOccurs.size
 
 
+// FIND HOW MANY OF THESE OCCUR PER TOKEN?
+ocreTokens.tokens(0).analyses(0).toString
+
+
 // group text passages by issuing authority, by using the
 // first two pieces of URN's passage component:
 val byAuth = libertasOccurs.groupBy( _.collapsePassageTo(2))
@@ -224,7 +228,7 @@ val libertasClasses = Map(
 "salvs et libertas" ->  "adsertor/salvs/pax",
 "senatvs popvlvs+qve romanvs adsertori libertatis pvblicae" -> "libertas popvli romani"
 )
-
+libertasClasses.size
 val traces = for (legend <- mapped.keySet) yield {
   //println(legend + ", " + colorMap(legend))
   val colorClass = libertasClasses(legend)

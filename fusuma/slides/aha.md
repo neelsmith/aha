@@ -5,20 +5,26 @@
 
 #### College of the Holy Cross
 
+---
+
+<img src="../static/imgs/ric-hardcopy.png" alt="Harl gift"/>
 
 ---
 
-*OCRE*: a familiar resource on the Web
+## *OCRE*: a familiar resource on the Web
 
 ![OCRE](http://shot.holycross.edu/aha/imgs/ocre-logo.png)
 
 ---
 
+
 ## But *also* a downloadable dataset
 
-- openly licensed
-- defined data structure
-- stable identifiers
+
+
+
+<img src="../static/imgs/downloadable.png" alt="Downloadable"/>
+
 
 <!-- note
 
@@ -32,6 +38,14 @@ All legends: 98566
 
 ---
 
+
+## Crucial features
+
+- openly licensed
+- defined data structure
+- stable identifiers
+
+---
 
 ## Apply computational tool of your choice
 
@@ -189,25 +203,47 @@ libertas pontifex maximvs tribvnicia potestate XIII imperator VIII consvl V pate
 
 ---
 
+## Context
+
+- legends of more than 200 issues refer to `libertas`
+- 29 distinct legends
+
+---
+
+
+
 <div class="wrap">
-<img class="alignleft" src="../static/imgs/color-key.png" alt="Numbers of issues per mint"/>
+<img class="alignleft" src="../static/imgs/color-key.png" alt="Color key for libertas classes"/>
 </div>
 
 ---
 
 <div class="wrap">
-<img class="alignright" src="../static/imgs/libertas-classes.png" alt="Numbers of issues per mint"/>
+<img class="alignright" src="../static/imgs/libertas-classes.png" alt="Frequency over time of libertas classes"/>
 </div>
 
 ---
 
 <div class="wrap">
-<img class="alignleft size-20" src="../static/imgs/color-key.png" alt="Numbers of issues per mint"/>
+<img class="alignleft size-30" src="../static/imgs/color-key.png" alt="Color key"/>
 
-<img class="alignright size-70" src="../static/imgs/libertas-classes.png" alt="Numbers of issues per mint"/>
+<img class="alignright size-60" src="../static/imgs/libertas-classes.png" alt="Frequency over time of libertas classes"/>
 </div>
 
+---
 
+## Concluding observations
+
+<div class="wrap">
+  <div class="grid vertical-align">
+    <div class="column">
+    <strong>beyond search</strong> → exploration of multidimensional data using variety of instruments
+    </div>
+    <div class="column">
+    <strong>replicable scholarship</strong> → all analyses available online
+    </div>
+  </div>
+</div>
 
 
 
